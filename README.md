@@ -11,18 +11,18 @@ This is a repo for an analysis I am conducting on historical concert data for al
 
 ### Initial visualizations
 
-1. Visualization of each venue's proportion of concerts by year
+Visualization of each venue's proportion of concerts by year
 
 ![Proportion of Concerts by Venue](/visualizations/area-chart.png?raw=true)
 ___
 
-2. Same data as above, visualized as a heatmap
+Same data as above, visualized as a heatmap
 
-⋅⋅⋅Found a whole in the data with this visualization, need to figure out why Soundeck on Saturday's doesn't have data.
+   Found a whole in the data with this visualization, need to figure out why Soundeck on Saturday's doesn't have data.
 
 ![Heatmap of Concerts by Day](/visualizations/heatmap.png?raw=true)
 ___
 
-3. Stacked bar chart to the number of concerts by venue and day
+Stacked bar chart to the number of concerts by venue and day
 
 ![Number of concerts by day and venue](/visualizations/stacked-bar.png?raw=true)
