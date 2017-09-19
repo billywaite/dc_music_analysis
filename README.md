@@ -18,7 +18,7 @@ ___
 
 Same data as above, visualized as a heatmap
 
-   Found a whole in the data with this visualization, need to figure out why Soundeck on Saturday's doesn't have data.
+   Found a hole in the data with this visualization, need to figure out why Soundeck on Saturday's doesn't have data.
 
 ![Heatmap of Concerts by Day](/visualizations/heatmap.png?raw=true)
 ___
