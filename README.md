@@ -1,6 +1,6 @@
 # Washington D.C. Historical Analysis
 
-This is a repo for an analysis I am conducting on historical concert data for all major music venues in Washington D.C. This is a project for personal interest.
+This is a repo for an analysis I am conducting on historical concert data for all major music venues in Washington D.C.
 
 ### Getting Started
 
@@ -11,4 +11,15 @@ This is a repo for an analysis I am conducting on historical concert data for al
 
 ### Initial visualizations
 
-![Alt text](/visualizations/area-chart.png?raw=true "Optional Title")
+1. Visualization of each venue's proportion of concerts by year
+
+![Proportion of Concerts by Venue](/visualizations/area-chart.png?raw=true)
+
+2. Same data as above, visualized as a heatmap
+⋅⋅⋅Found a whole in the data with this visualization, need to figure out why Soundeck on Saturday's doesn't have data.
+
+![Proportion of Concerts by Venue](/visualizations/heatmap.png?raw=true)
+
+3. Stacked bar chart to the number of concerts by venue and day
+
+![Proportion of Concerts by Venue](/visualizations/stacked-bar.png?raw=true)
