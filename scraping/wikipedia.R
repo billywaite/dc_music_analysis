@@ -1,8 +1,4 @@
 
-library(RCurl)
-library(XML)
-library(rlist)
-
 library(rvest)
 library(httr) 
 
@@ -54,7 +50,7 @@ scrape_wiki <- function(url){
   )
 }
 
-for(i in 5030:nrow(headliners)) {
+for(i in 1:nrow(headliners)) {
   
   print(headliners$artist[i])
   
@@ -95,23 +91,9 @@ for(i in 5030:nrow(headliners)) {
   }
 }
 
+# Remove columns w/ bad data
+export_df <- all_artists %>%
+  select(1:7, 9:17)
 
-
-# Create full concert page url
-url <- "https://en.wikipedia.org/wiki/Danny_Brown"
-
-# Scrape the html from the individual arist event page
-page <- read_html(url)
-
-# Store headliner artist name
-artist_background <- page %>%
-  html_nodes(".infobox") %>%
-  html_table()
-
-x <- colnames(artist_background[[1]])
-
-first <- x[1]
-
-test <- artist_background[[1]] %>%
-  rename("col1" = first)
+write.csv(export_df, "artist_background_info.csv")
 
