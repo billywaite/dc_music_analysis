@@ -116,5 +116,69 @@ all_concerts <- rbind(clean_songkick, clean_uhall)
 write.csv(all_concerts, "all_concert_data.csv")
 
 
+############################################################################
+#      Cleaning headliner column for use in API queries                    #
+############################################################################
+
+# Load data
+concerts <- read.csv("all_concert_data.csv", stringsAsFactors = FALSE)
+concerts <- tbl_df(concerts)
+
+# Clean leading/lagging whitespace
+concerts$headliner <- trimws(concerts$headliner)
+concerts$support <- trimws(concerts$support)
+
+# Remove remove everything between parentheses 
+concerts$headliner <- gsub("\\s*\\([^\\)]+\\)","",as.character(concerts$headliner))
+
+# Remove strings from artist names
+concerts$headliner <- str_replace_all(concerts$headliner, "DJ Set", "")
+concerts$headliner <- str_replace_all(concerts$headliner, "Fall Residency", "")
+concerts$headliner <- str_replace_all(concerts$headliner, "- LIVE", "")
+concerts$headliner <- str_replace_all(concerts$headliner, "- SHOW IS CANCELLED", "")
+concerts$headliner <- str_replace_all(concerts$headliner, "CANCELLED -", "")
+concerts$headliner <- str_replace_all(concerts$headliner, "SOLD OUT!", "")
+concerts$headliner <- str_replace_all(concerts$headliner, "CANCELLED", "")
+
+# Filter out festivals
+clean_headliner <- function(string, df) {
+  
+  df$festival <- grepl(string, df$headliner)
+  festivals <- df %>% filter(festival == TRUE)
+  
+  x <- paste0("Removed ", nrow(festivals), " rows that contained the string: ", string)
+
+  df <- df %>%
+    filter(festival != TRUE) %>%
+    dplyr::select(1:8)
+  
+  return(df)
+}
+
+festival_strings <- c("Festival", "FESTIVAL", "festival", "FESTiVAL", "Jazz Fest", "Roamfest", "ROAMfest", "Labor Day Fest", "FreeFest",
+                      "Jazz Fest", "Free Fest", "Breakin Even Fest", "OMG Music Fest", "Hippiefest", "Reggae Fest", "GRILLFEST")
+
+for (i in 1:length(festival_strings)) {
+  concerts <- clean_headliner(festival_strings[i], concerts)
+  print(festival_strings[i])
+}
+
+write.csv(concerts, "clean_headliners.csv")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
