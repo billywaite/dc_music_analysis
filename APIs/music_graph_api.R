@@ -62,12 +62,14 @@ artists_wOut_genre <- tbl_df(artists_wOut_genre)
 
 # Generate a URL for each artist
 artists_wOut_genre$query <- str_replace_all(artists_wOut_genre$headliner, " ", "+")
-artists_wOut_genre$url <- paste0("http://api.musicgraph.com/api/v2/artist/search?api_key=", key, "&name=", artists_wOut_genre$query)
+artists_wOut_genre$url <- paste0("http://api.musicgraph.com/api/v2/artist/search?api_key=", key1, "&name=", artists_wOut_genre$query)
 
 # Can only do 15 calls/min at 5k/month
 
 api_df1 <- artists_wOut_genre[1:4750, ]
-api_df2 <- artists_wOut_genre[5001:9154, ]
+api_df2 <- artists_wOut_genre[4750:9154, ]
+
+api_df2$url <- paste0("http://api.musicgraph.com/api/v2/artist/search?api_key=", key2, "&name=", api_df2$query)
 
 # test set
 test_df <- api_df1[1:5, ]
@@ -80,10 +82,10 @@ headliners <- data.frame(headliner = character(),
                          spotify_id = as.character(),
                          stringsAsFactors=FALSE)
 
-for (i in 1:nrow(api_df1)) {
+for (i in 1:nrow(api_df2)) {
   
   # Call the API
-  api_data <- GET(api_df1$url[i], user_agent("Mozilla/5.0"))
+  api_data <- GET(api_df2$url[i], user_agent("Mozilla/5.0"))
   # Store the content
   api_data <- content(api_data)
   
@@ -115,7 +117,7 @@ for (i in 1:nrow(api_df1)) {
     }
     
     # Create one row data frame out of scraped concert data
-    individual_df <- data.frame(headliner = api_df1$headliner[i],
+    individual_df <- data.frame(headliner = api_df2$headliner[i],
                                 country_origin = api_country_origin,
                                 genre = api_genre,
                                 gender = api_gender,
@@ -138,7 +140,8 @@ for (i in 1:nrow(api_df1)) {
   
 }
 
-write.csv(headliners, "music_graph_api_data1.csv")
+write.csv(headliners, "music_graph_api_data.csv")
+
 
 
 
