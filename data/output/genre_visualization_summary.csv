@@ -1,1880 +1,247 @@
 "","venue","main_genre","sum"
-"1","9:30 Club","{{ hip hop",1
-"2","9:30 Club","acid jazzdiscofunk",3
-"3","9:30 Club","acoustic",5
-"4","9:30 Club","acousticpop",1
-"5","9:30 Club","adult alternativeindie",2
-"6","9:30 Club","afrobeat",3
-"7","9:30 Club","alternative country",18
-"8","9:30 Club","alternative countryrock",1
-"9","9:30 Club","alternative dance",4
-"10","9:30 Club","alternative folk",4
-"11","9:30 Club","alternative hip hop",23
-"12","9:30 Club","alternative metal",7
-"13","9:30 Club","alternative r&b",2
-"14","9:30 Club","alternative rock",359
-"15","9:30 Club","alternative/indie",333
-"16","9:30 Club","ambient house",2
-"17","9:30 Club","american folk musicamericananew acousticamerican primitive guitar",1
-"18","9:30 Club","americana",47
-"19","9:30 Club","americana (music)",1
-"20","9:30 Club","americanaalternative country",1
-"21","9:30 Club","anti-folk",1
-"22","9:30 Club","art pop",2
-"23","9:30 Club","art rock",4
-"24","9:30 Club","art-pop",3
-"25","9:30 Club","avant-pop",6
-"26","9:30 Club","baroque pop",1
-"27","9:30 Club","big beat",3
-"28","9:30 Club","blue-eyed soul",2
-"29","9:30 Club","bluegrass",9
-"30","9:30 Club","blues",3
-"31","9:30 Club","blues rock",25
-"32","9:30 Club","bossa nova",4
-"33","9:30 Club","brass band",2
-"34","9:30 Club","cabaret",1
-"35","9:30 Club","cello metal",4
-"36","9:30 Club","celtic folk",2
-"37","9:30 Club","celtic punk",14
-"38","9:30 Club","celtic rock",1
-"39","9:30 Club","chamber pop",1
-"40","9:30 Club","children's",2
-"41","9:30 Club","chillwave",5
-"42","9:30 Club","choral",1
-"43","9:30 Club","christian metal",2
-"44","9:30 Club","christian punk",2
-"45","9:30 Club","christian rock",6
-"46","9:30 Club","christian/gospel",1
-"47","9:30 Club","comedy rock",1
-"48","9:30 Club","comedy/spoken word",1
-"49","9:30 Club","contemporary folk",1
-"50","9:30 Club","contemporary pop/rock",1
-"51","9:30 Club","country",54
-"52","9:30 Club","country3]4]",1
-"53","9:30 Club","countryfolkbluegrassindiewestern",1
-"54","9:30 Club","crossover thrash",1
-"55","9:30 Club","dance-pop",2
-"56","9:30 Club","dance-punk",3
-"57","9:30 Club","dance-punk]",2
-"58","9:30 Club","dancehall",2
-"59","9:30 Club","dark cabaret",2
-"60","9:30 Club","death metal",1
-"61","9:30 Club","deathcore",2
-"62","9:30 Club","deep house",1
-"63","9:30 Club","digital hardcore",2
-"64","9:30 Club","disco",1
-"65","9:30 Club","doom metal",2
-"66","9:30 Club","downtempo",26
-"67","9:30 Club","dream pop",11
-"68","9:30 Club","drone metal",1
-"69","9:30 Club","dubstep",3
-"70","9:30 Club","east coast hip hop",2
-"71","9:30 Club","ebm",1
-"72","9:30 Club","edm",1
-"73","9:30 Club","electro funk",5
-"74","9:30 Club","electro house",4
-"75","9:30 Club","electro swing",4
-"76","9:30 Club","electroclash",1
-"77","9:30 Club","electronic",32
-"78","9:30 Club","electronic music",2
-"79","9:30 Club","electronic rock",5
-"80","9:30 Club","electronica",16
-"81","9:30 Club","electronica/dance",128
-"82","9:30 Club","electropop",18
-"83","9:30 Club","electropop]",1
-"84","9:30 Club","emo",13
-"85","9:30 Club","experimental hip hop",1
-"86","9:30 Club","experimental pop",6
-"87","9:30 Club","experimental rock",11
-"88","9:30 Club","extreme metal",2
-"89","9:30 Club","folk",50
-"90","9:30 Club","folk blues",2
-"91","9:30 Club","folk punk",3
-"92","9:30 Club","folk rock",31
-"93","9:30 Club","folk-pop",2
-"94","9:30 Club","folkacousticfolk rockamericana",1
-"95","9:30 Club","folktronica",6
-"96","9:30 Club","freak folk",1
-"97","9:30 Club","funk",9
-"98","9:30 Club","fusion",1
-"99","9:30 Club","garage punk",2
-"100","9:30 Club","garage rock",13
-"101","9:30 Club","glam metal]",3
-"102","9:30 Club","glam rock",1
-"103","9:30 Club","go-go",6
-"104","9:30 Club","gothic metal",3
-"105","9:30 Club","gothic rock",2
-"106","9:30 Club","groove metal",1
-"107","9:30 Club","grunge",3
-"108","9:30 Club","gypsy punk",20
-"109","9:30 Club","hard rock",21
-"110","9:30 Club","hard rock]",1
-"111","9:30 Club","hardcore hip hop",2
-"112","9:30 Club","hardcore punk",2
-"113","9:30 Club","heartland rockalternative rock",1
-"114","9:30 Club","heavy metal",33
-"115","9:30 Club","heavy metal]",2
-"116","9:30 Club","hip hop",64
-"117","9:30 Club","hip-hop",1
-"118","9:30 Club","house",5
-"119","9:30 Club","hypnagogic pop",4
-"120","9:30 Club","indie",2
-"121","9:30 Club","indie electronic",3
-"122","9:30 Club","indie folk",44
-"123","9:30 Club","indie pop",78
-"124","9:30 Club","indie pop3]",1
-"125","9:30 Club","indie rock",273
-"126","9:30 Club","indie rock",1
-"127","9:30 Club","indie rockbaroque poppost-rock",1
-"128","9:30 Club","indie rocksouthern rock",1
-"129","9:30 Club","indietronica",6
-"130","9:30 Club","industrial",4
-"131","9:30 Club","industrial metal",1
-"132","9:30 Club","industrial rock",6
-"133","9:30 Club","instrumental",2
-"134","9:30 Club","instrumental hip hop",1
-"135","9:30 Club","instrumental rock",2
-"136","9:30 Club","jazz",32
-"137","9:30 Club","jazz fusion",1
-"138","9:30 Club","latin",9
-"139","9:30 Club","latin rock",5
-"140","9:30 Club","livetronica",5
-"141","9:30 Club","malian music",3
-"142","9:30 Club","mathcore",1
-"143","9:30 Club","melodic death metal",5
-"144","9:30 Club","melodic hardcore",2
-"145","9:30 Club","metalcore",2
-"146","9:30 Club","midwest hip hop",2
-"147","9:30 Club","minimal",3
-"148","9:30 Club","mod revival",1
-"149","9:30 Club","mpb",1
-"150","9:30 Club","neo-psychedelia",13
-"151","9:30 Club","neoclassical dark wave",1
-"152","9:30 Club","neotango",4
-"153","9:30 Club","nerdcore hip hoprap rockalternative rock",3
-"154","9:30 Club","new age",1
-"155","9:30 Club","new wave",24
-"156","9:30 Club","new weird america",1
-"157","9:30 Club","noise rock",12
-"158","9:30 Club","nu metal",1
-"159","9:30 Club","old-time",8
-"160","9:30 Club","one-man band",4
-"161","9:30 Club","outlaw country",1
-"162","9:30 Club","parody",1
-"163","9:30 Club","pop",137
-"164","9:30 Club","pop punk",14
-"165","9:30 Club","pop punk]",4
-"166","9:30 Club","pop rock",28
-"167","9:30 Club","pop]",1
-"168","9:30 Club","post-bop",1
-"169","9:30 Club","post-grunge",6
-"170","9:30 Club","post-hardcore",8
-"171","9:30 Club","post-industrial",2
-"172","9:30 Club","post-punk",19
-"173","9:30 Club","post-punk revival",8
-"174","9:30 Club","post-rock",15
-"175","9:30 Club","power pop",10
-"176","9:30 Club","progressive bluegrass",19
-"177","9:30 Club","progressive bluegrassjam band",1
-"178","9:30 Club","progressive death metal",1
-"179","9:30 Club","progressive house",3
-"180","9:30 Club","progressive metal",3
-"181","9:30 Club","progressive rock",15
-"182","9:30 Club","psybient",3
-"183","9:30 Club","psychedelic",6
-"184","9:30 Club","psychedelic pop",3
-"185","9:30 Club","psychedelic rock",12
-"186","9:30 Club","psychobilly",1
-"187","9:30 Club","punk blues",1
-"188","9:30 Club","punk rock",67
-"189","9:30 Club","r&b",12
-"190","9:30 Club","rap metal",1
-"191","9:30 Club","rap rock",1
-"192","9:30 Club","rap/hip hop",48
-"193","9:30 Club","red dirt",6
-"194","9:30 Club","reggae",20
-"195","9:30 Club","reggae/ska",10
-"196","9:30 Club","rock",379
-"197","9:30 Club","rock and roll",2
-"198","9:30 Club","rockabilly",1
-"199","9:30 Club","roots rock",10
-"200","9:30 Club","scottish/celtic",2
-"201","9:30 Club","seasonal",2
-"202","9:30 Club","ska",12
-"203","9:30 Club","ska punk",18
-"204","9:30 Club","skarocksteadyreggae",3
-"205","9:30 Club","sludge metal",1
-"206","9:30 Club","soft rock",1
-"207","9:30 Club","soul",24
-"208","9:30 Club","soul jazz",6
-"209","9:30 Club","soul jazzacid jazz",2
-"210","9:30 Club","soul/r&b",23
-"211","9:30 Club","southern rock",16
-"212","9:30 Club","southern soul",5
-"213","9:30 Club","space rock",7
-"214","9:30 Club","surf rock",2
-"215","9:30 Club","surreal comedy",1
-"216","9:30 Club","symphonic black metal",2
-"217","9:30 Club","synth-pop",12
-"218","9:30 Club","synthpop",23
-"219","9:30 Club","techno",1
-"220","9:30 Club","texas country",9
-"221","9:30 Club","thrash metal",1
-"222","9:30 Club","tishoumaren",1
-"223","9:30 Club","trance",1
-"224","9:30 Club","trance fusion",16
-"225","9:30 Club","trip hop",10
-"226","9:30 Club","turntablism",1
-"227","9:30 Club","twee pop (early)",3
-"228","9:30 Club","uk garage",2
-"229","9:30 Club","vocal jazz",6
-"230","9:30 Club","world",5
-"231","9:30 Club","world music",1
-"232","9:30 Club","zydeco",1
-"233","Birchmere","a cappella",6
-"234","Birchmere","acoustic",6
-"235","Birchmere","acoustic rock",1
-"236","Birchmere","acousticpop",1
-"237","Birchmere","adult alternativeindie",6
-"238","Birchmere","adult contemporary",6
-"239","Birchmere","afro-cuban-caribbean fusion.",3
-"240","Birchmere","alt-country",1
-"241","Birchmere","alt. country",1
-"242","Birchmere","alternative country",16
-"243","Birchmere","alternative countryprogressive bluegrasstexas country",3
-"244","Birchmere","alternative folk",3
-"245","Birchmere","alternative metal",1
-"246","Birchmere","alternative rock",41
-"247","Birchmere","alternative rockcountry rock",2
-"248","Birchmere","alternative/indie",27
-"249","Birchmere","american folk musicamericananew acousticamerican primitive guitar",12
-"250","Birchmere","americana",133
-"251","Birchmere","americanafolkpopcountry",1
-"252","Birchmere","americanaold-time music",1
-"253","Birchmere","americanaroots rockswamp rocksouthern rockcajun/zydeconew orleans r&bcountry soul",9
-"254","Birchmere","ameripolitan",13
-"255","Birchmere","art rock",8
-"256","Birchmere","barbershop",1
-"257","Birchmere","beat",4
-"258","Birchmere","blue-eyed soul",23
-"259","Birchmere","bluegrass",76
-"260","Birchmere","bluegrassjam band",3
-"261","Birchmere","blues",101
-"262","Birchmere","blues rock",19
-"263","Birchmere","blues-rock",5
-"264","Birchmere","cabaret",2
-"265","Birchmere","cape breton fiddle music",1
-"266","Birchmere","celtic",27
-"267","Birchmere","celtic folk",1
-"268","Birchmere","celtic rock",3
-"269","Birchmere","celtic rockfolk rockindie rockroots rock",1
-"270","Birchmere","chicago blues",12
-"271","Birchmere","chicago soul",1
-"272","Birchmere","chicano rock",11
-"273","Birchmere","children's",4
-"274","Birchmere","christian/gospel",10
-"275","Birchmere","classical",2
-"276","Birchmere","classical crossover",3
-"277","Birchmere","classical music",1
-"278","Birchmere","classical-crossover",1
-"279","Birchmere","classical/opera",3
-"280","Birchmere","comedy/spoken word",9
-"281","Birchmere","contemporary christian",3
-"282","Birchmere","contemporary folk",14
-"283","Birchmere","contemporary gospel",1
-"284","Birchmere","contemporary jazz",5
-"285","Birchmere","country",249
-"286","Birchmere","country music",2
-"287","Birchmere","country rock",21
-"288","Birchmere","country rockfolk rock",19
-"289","Birchmere","delta blues",5
-"290","Birchmere","disco",1
-"291","Birchmere","easy listening",1
-"292","Birchmere","electric blues",2
-"293","Birchmere","electric folk",1
-"294","Birchmere","electronic music",1
-"295","Birchmere","electronica",1
-"296","Birchmere","fado",1
-"297","Birchmere","folk",259
-"298","Birchmere","folk music",2
-"299","Birchmere","folk pop",1
-"300","Birchmere","folk rock",44
-"301","Birchmere","folk-pop",1
-"302","Birchmere","folk-rock",7
-"303","Birchmere","folkacousticfolk rockamericana",1
-"304","Birchmere","folkamericanaalternative country",1
-"305","Birchmere","folkcountryamericanabluegrass",1
-"306","Birchmere","folkpop",1
-"307","Birchmere","funk",25
-"308","Birchmere","funk rock",5
-"309","Birchmere","gospel",10
-"310","Birchmere","hard rock",1
-"311","Birchmere","hardcore punk",4
-"312","Birchmere","heartland rock",1
-"313","Birchmere","heartland rockalternative rock",4
-"314","Birchmere","indie folk",2
-"315","Birchmere","indie pop",2
-"316","Birchmere","indie rock",8
-"317","Birchmere","instrumental rock",10
-"318","Birchmere","irish traditional",1
-"319","Birchmere","isicathamiya",1
-"320","Birchmere","jazz",230
-"321","Birchmere","jazz fusion",7
-"322","Birchmere","jazz-funk",1
-"323","Birchmere","latin pop",2
-"324","Birchmere","latin rock",2
-"325","Birchmere","malian music",1
-"326","Birchmere","minimalist music",1
-"327","Birchmere","mpb",3
-"328","Birchmere","neo soul",1
-"329","Birchmere","neoclassical dark wave",2
-"330","Birchmere","neotraditional country",7
-"331","Birchmere","neotraditionalist country",1
-"332","Birchmere","nerdcore hip hoprap rockalternative rock",1
-"333","Birchmere","new age",15
-"334","Birchmere","new flamenco",6
-"335","Birchmere","new orleans blues",1
-"336","Birchmere","new wave",7
-"337","Birchmere","old-time",3
-"338","Birchmere","one-man band",6
-"339","Birchmere","outlaw country",1
-"340","Birchmere","pop",93
-"341","Birchmere","pop rock",17
-"342","Birchmere","post-punk",1
-"343","Birchmere","power pop",8
-"344","Birchmere","progressive bluegrass",4
-"345","Birchmere","progressive rock",8
-"346","Birchmere","psychedelic pop",1
-"347","Birchmere","psychedelic rock",3
-"348","Birchmere","pub rock",5
-"349","Birchmere","punk rock",7
-"350","Birchmere","r&b",130
-"351","Birchmere","r&b' hip hop",1
-"352","Birchmere","rap/hip hop",5
-"353","Birchmere","reggae",1
-"354","Birchmere","reggae/ska",3
-"355","Birchmere","rhythm and blues",21
-"356","Birchmere","rock",281
-"357","Birchmere","rock and roll",16
-"358","Birchmere","rock and rollbeatles tribute",4
-"359","Birchmere","rockabilly",1
-"360","Birchmere","roots rock",13
-"361","Birchmere","scottish folk music",1
-"362","Birchmere","seasonal",1
-"363","Birchmere","smooth jazz",49
-"364","Birchmere","soft rock",2
-"365","Birchmere","soul",36
-"366","Birchmere","soul/r&b",113
-"367","Birchmere","southern rock",14
-"368","Birchmere","southern soul",1
-"369","Birchmere","spanish rock",1
-"370","Birchmere","sunshine pop",5
-"371","Birchmere","surf rock",8
-"372","Birchmere","swamp blues",6
-"373","Birchmere","swing revival",4
-"374","Birchmere","texas country",14
-"375","Birchmere","the great american songbook",1
-"376","Birchmere","traditional irish",1
-"377","Birchmere","various",9
-"378","Birchmere","vaudevillian",4
-"379","Birchmere","vocal jazz",18
-"380","Birchmere","vocals",2
-"381","Birchmere","world",18
-"382","Birchmere","yela",1
-"383","Birchmere","zydeco",2
-"384","Black Cat","{{ hip hop",2
-"385","Black Cat","acid jazzdiscofunk",5
-"386","Black Cat","acoustic",2
-"387","Black Cat","afrobeat",4
-"388","Black Cat","afrofunkafrobeatfunkhighlifeafropop",5
-"389","Black Cat","alternative",2
-"390","Black Cat","alternative country",10
-"391","Black Cat","alternative countryrock",3
-"392","Black Cat","alternative dance",1
-"393","Black Cat","alternative metal",1
-"394","Black Cat","alternative rock",106
-"395","Black Cat","alternative rockindie rockpost-punk revival",1
-"396","Black Cat","alternative/indie",477
-"397","Black Cat","americana",1
-"398","Black Cat","anti-folk",1
-"399","Black Cat","art pop",1
-"400","Black Cat","art rock",5
-"401","Black Cat","art-pop",1
-"402","Black Cat","avant-garde rockexperimentalneo-psychedeliaambientpost-punkindustrialnoisesynthpopindustrial rocknoise rock",3
-"403","Black Cat","avant-pop",1
-"404","Black Cat","big beat",1
-"405","Black Cat","black metal",1
-"406","Black Cat","blues",2
-"407","Black Cat","blues rock",5
-"408","Black Cat","bluespunkcountry music",3
-"409","Black Cat","breakcore",1
-"410","Black Cat","celtic punk",2
-"411","Black Cat","chamber pop",1
-"412","Black Cat","children's",1
-"413","Black Cat","chillwave",3
-"414","Black Cat","christian punk",1
-"415","Black Cat","christian/gospel",2
-"416","Black Cat","classical/opera",3
-"417","Black Cat","comedy rock",3
-"418","Black Cat","comedy/spoken word",9
-"419","Black Cat","country",2
-"420","Black Cat","country rock",1
-"421","Black Cat","country rockalternative countryamericana",1
-"422","Black Cat","cumbia villera",1
-"423","Black Cat","dark cabaret",2
-"424","Black Cat","deathcore",1
-"425","Black Cat","doom metal",8
-"426","Black Cat","dream pop",4
-"427","Black Cat","drone metal",1
-"428","Black Cat","ebm",1
-"429","Black Cat","edm",1
-"430","Black Cat","electro",1
-"431","Black Cat","electronic",5
-"432","Black Cat","electronic rock",4
-"433","Black Cat","electronica",7
-"434","Black Cat","electronica/dance",95
-"435","Black Cat","electropop",4
-"436","Black Cat","emo",8
-"437","Black Cat","experimental",1
-"438","Black Cat","experimental pop",3
-"439","Black Cat","experimental rock",18
-"440","Black Cat","experimentalpsychedelicbluespop",1
-"441","Black Cat","folk",42
-"442","Black Cat","folk punk",6
-"443","Black Cat","folk punkpunk rockfolk",1
-"444","Black Cat","folk rock",21
-"445","Black Cat","folk-punk",1
-"446","Black Cat","folkacousticfolk rockamericana",2
-"447","Black Cat","folktronica",1
-"448","Black Cat","freak folk",1
-"449","Black Cat","french rock",3
-"450","Black Cat","funk",2
-"451","Black Cat","garage punk",4
-"452","Black Cat","garage rock",21
-"453","Black Cat","garage rockpost-punk revivalindie rock",2
-"454","Black Cat","glam rock",1
-"455","Black Cat","golden age hip hop",2
-"456","Black Cat","grindcore",1
-"457","Black Cat","grunge",1
-"458","Black Cat","grunge folk",1
-"459","Black Cat","gypsy punk",1
-"460","Black Cat","hard rock",8
-"461","Black Cat","hardcore punk",7
-"462","Black Cat","heavy metal",7
-"463","Black Cat","hip hop",13
-"464","Black Cat","idm",2
-"465","Black Cat","indie",5
-"466","Black Cat","indie folk",26
-"467","Black Cat","indie pop",61
-"468","Black Cat","indie pop3]",1
-"469","Black Cat","indie popalternative rock",2
-"470","Black Cat","indie popindie rocktwee pop",1
-"471","Black Cat","indie rock",273
-"472","Black Cat","indie rock",1
-"473","Black Cat","indie rockalternative rockpop rockindie pop",1
-"474","Black Cat","indie rockfolk rockalternative rockcountry rock",1
-"475","Black Cat","indie rockfolk rockpsychedelic rockprogressive rock",2
-"476","Black Cat","indie rockindie folkamericana",1
-"477","Black Cat","indie rockpower pop",5
-"478","Black Cat","indie rocksymphonic pop",2
-"479","Black Cat","indietronica",1
-"480","Black Cat","indietronicafolktronicaalternative rockbaroque pop",1
-"481","Black Cat","industrial rock",2
-"482","Black Cat","instrumental rock",1
-"483","Black Cat","jazz",7
-"484","Black Cat","krautrock",1
-"485","Black Cat","latin",13
-"486","Black Cat","latin rock",2
-"487","Black Cat","lo-fi",2
-"488","Black Cat","lo-finoise pop",1
-"489","Black Cat","math rock",1
-"490","Black Cat","melodic hardcore",4
-"491","Black Cat","metalcore",1
-"492","Black Cat","neo soul",1
-"493","Black Cat","nerd-folk",1
-"494","Black Cat","new orleans",1
-"495","Black Cat","new wave",6
-"496","Black Cat","new weird america",1
-"497","Black Cat","noise pop",1
-"498","Black Cat","noise rock",13
-"499","Black Cat","nu jazzacid jazzjazz fusionexperimental rockpost-rock",2
-"500","Black Cat","nu-disco",1
-"501","Black Cat","parody",1
-"502","Black Cat","piedmont blues",1
-"503","Black Cat","pop",46
-"504","Black Cat","pop punk",12
-"505","Black Cat","pop rock",3
-"506","Black Cat","post-dubstep",2
-"507","Black Cat","post-hardcore",25
-"508","Black Cat","post-hardcoremath rock",1
-"509","Black Cat","post-industrial",1
-"510","Black Cat","post-punk",8
-"511","Black Cat","post-punk revival",5
-"512","Black Cat","post-rock",9
-"513","Black Cat","power pop",6
-"514","Black Cat","psychedelic pop",3
-"515","Black Cat","psychedelic rock",8
-"516","Black Cat","psychobilly",2
-"517","Black Cat","punk",5
-"518","Black Cat","punk rock",95
-"519","Black Cat","punk rockpunk cabaretcircus punk",1
-"520","Black Cat","r&b",10
-"521","Black Cat","rap/hip hop",17
-"522","Black Cat","reggae",2
-"523","Black Cat","reggae/ska",5
-"524","Black Cat","rhythm and blues",2
-"525","Black Cat","rock",301
-"526","Black Cat","rock and roll",15
-"527","Black Cat","rockabilly",2
-"528","Black Cat","screamo",2
-"529","Black Cat","shoegazing",1
-"530","Black Cat","singer/songwriter",1
-"531","Black Cat","ska",2
-"532","Black Cat","ska punk",1
-"533","Black Cat","skate punk",1
-"534","Black Cat","sludge metal",10
-"535","Black Cat","soul",2
-"536","Black Cat","soul/r&b",10
-"537","Black Cat","soulfunkafrobeat",1
-"538","Black Cat","southern rock",1
-"539","Black Cat","space rock",1
-"540","Black Cat","steampunk",1
-"541","Black Cat","stoner metal",1
-"542","Black Cat","stoner rock",4
-"543","Black Cat","street punk",2
-"544","Black Cat","sufi rock",1
-"545","Black Cat","surf rock",5
-"546","Black Cat","swing",1
-"547","Black Cat","synth-pop",2
-"548","Black Cat","synth-pop4]",2
-"549","Black Cat","synthpop",8
-"550","Black Cat","trip hop",3
-"551","Black Cat","twee pop (early)",2
-"552","Black Cat","vocal play",1
-"553","Black Cat","wizard rock",5
-"554","Black Cat","world",12
-"555","Black Cat","world music",1
-"556","Black Cat","zydeco",1
-"557","DAR Constitution Hall","alternative rock",11
-"558","DAR Constitution Hall","alternative/indie",15
-"559","DAR Constitution Hall","anti-folk",2
-"560","DAR Constitution Hall","blues",2
-"561","DAR Constitution Hall","blues rock",1
-"562","DAR Constitution Hall","celtic",1
-"563","DAR Constitution Hall","chicago blues",1
-"564","DAR Constitution Hall","christian/gospel",4
-"565","DAR Constitution Hall","classical crossover",1
-"566","DAR Constitution Hall","classical/opera",1
-"567","DAR Constitution Hall","comedy/spoken word",25
-"568","DAR Constitution Hall","contemporary gospel",1
-"569","DAR Constitution Hall","country",13
-"570","DAR Constitution Hall","doo-wop",4
-"571","DAR Constitution Hall","easy listening",1
-"572","DAR Constitution Hall","electronica",1
-"573","DAR Constitution Hall","emo",1
-"574","DAR Constitution Hall","folk",5
-"575","DAR Constitution Hall","folk music",1
-"576","DAR Constitution Hall","funk",2
-"577","DAR Constitution Hall","go-go",1
-"578","DAR Constitution Hall","gospel",4
-"579","DAR Constitution Hall","heartland rock",2
-"580","DAR Constitution Hall","hip hop",14
-"581","DAR Constitution Hall","indie folk",5
-"582","DAR Constitution Hall","indie pop",2
-"583","DAR Constitution Hall","indie rock",5
-"584","DAR Constitution Hall","indie rock",1
-"585","DAR Constitution Hall","iranian pop music azerbaijani folk music",3
-"586","DAR Constitution Hall","jazz",1
-"587","DAR Constitution Hall","latin",2
-"588","DAR Constitution Hall","latin pop",3
-"589","DAR Constitution Hall","latin rocklatinrock",1
-"590","DAR Constitution Hall","new wave",1
-"591","DAR Constitution Hall","philadelphia soul",3
-"592","DAR Constitution Hall","pop",33
-"593","DAR Constitution Hall","pop punk",1
-"594","DAR Constitution Hall","pop rock",2
-"595","DAR Constitution Hall","post-grunge",2
-"596","DAR Constitution Hall","progressive rock",3
-"597","DAR Constitution Hall","qawwali",5
-"598","DAR Constitution Hall","r&b",26
-"599","DAR Constitution Hall","r&b' hip hop",2
-"600","DAR Constitution Hall","rap/hip hop",11
-"601","DAR Constitution Hall","reggae/ska",2
-"602","DAR Constitution Hall","reggaeton",1
-"603","DAR Constitution Hall","rhythm and blues",1
-"604","DAR Constitution Hall","rock",33
-"605","DAR Constitution Hall","roots rock",1
-"606","DAR Constitution Hall","salsa",1
-"607","DAR Constitution Hall","soul/r&b",54
-"608","DAR Constitution Hall","soundtracks",1
-"609","DAR Constitution Hall","southern rock",2
-"610","DAR Constitution Hall","synthpop",2
-"611","DAR Constitution Hall","taiko",1
-"612","DAR Constitution Hall","vocals",1
-"613","DAR Constitution Hall","world",8
-"614","DAR Constitution Hall","world ghazal",1
-"615","DAR Constitution Hall","world hindi",1
-"616","DC9 Nightclub","acoustic",1
-"617","DC9 Nightclub","acoustic pop",1
-"618","DC9 Nightclub","alt. country",1
-"619","DC9 Nightclub","alternative",4
-"620","DC9 Nightclub","alternative country",12
-"621","DC9 Nightclub","alternative countryfolkbluesrock",1
-"622","DC9 Nightclub","alternative hip hop",1
-"623","DC9 Nightclub","alternative rock",31
-"624","DC9 Nightclub","alternative rockbritpop",1
-"625","DC9 Nightclub","alternative rockfolk rock",1
-"626","DC9 Nightclub","alternative rockpsychedelic rockshoegazing",1
-"627","DC9 Nightclub","alternative/indie",348
-"628","DC9 Nightclub","ambient",1
-"629","DC9 Nightclub","americana",4
-"630","DC9 Nightclub","art pop",1
-"631","DC9 Nightclub","art rock",1
-"632","DC9 Nightclub","art rockelectronica",1
-"633","DC9 Nightclub","avant-garde",4
-"634","DC9 Nightclub","bedroom pop ]indie folk",1
-"635","DC9 Nightclub","black metal",1
-"636","DC9 Nightclub","blues",5
-"637","DC9 Nightclub","blues rock",4
-"638","DC9 Nightclub","bluespunkcountry music",1
-"639","DC9 Nightclub","canadian hip hopalternative hip hop",1
-"640","DC9 Nightclub","children's",1
-"641","DC9 Nightclub","chillwave",2
-"642","DC9 Nightclub","country",7
-"643","DC9 Nightclub","crooner",1
-"644","DC9 Nightclub","dance-rock",2
-"645","DC9 Nightclub","dream pop",2
-"646","DC9 Nightclub","dreampop euroexplosionism",1
-"647","DC9 Nightclub","drone",1
-"648","DC9 Nightclub","electroclash",1
-"649","DC9 Nightclub","electronic",6
-"650","DC9 Nightclub","electronic rock",1
-"651","DC9 Nightclub","electronic rock]",1
-"652","DC9 Nightclub","electronic]",1
-"653","DC9 Nightclub","electronica",4
-"654","DC9 Nightclub","electronica/dance",46
-"655","DC9 Nightclub","electropop",4
-"656","DC9 Nightclub","emo",2
-"657","DC9 Nightclub","experimental",4
-"658","DC9 Nightclub","experimental pop",1
-"659","DC9 Nightclub","experimental rock",3
-"660","DC9 Nightclub","folk",35
-"661","DC9 Nightclub","folk music",1
-"662","DC9 Nightclub","folk punkpunk rockfolk",1
-"663","DC9 Nightclub","folk rock",8
-"664","DC9 Nightclub","folk-pop/indie pop/indie rock",1
-"665","DC9 Nightclub","folk-punk",2
-"666","DC9 Nightclub","folk-rock",2
-"667","DC9 Nightclub","garage pop",1
-"668","DC9 Nightclub","garage punk",1
-"669","DC9 Nightclub","garage rock",6
-"670","DC9 Nightclub","garage rockpost-punk revivalindie rock",1
-"671","DC9 Nightclub","glam metal]",1
-"672","DC9 Nightclub","glam rock",1
-"673","DC9 Nightclub","goth punk",1
-"674","DC9 Nightclub","grunge",1
-"675","DC9 Nightclub","hard rock",4
-"676","DC9 Nightclub","hardcore punk",4
-"677","DC9 Nightclub","heavy metal",1
-"678","DC9 Nightclub","hip hop",13
-"679","DC9 Nightclub","idm",1
-"680","DC9 Nightclub","indie",10
-"681","DC9 Nightclub","indie folk",9
-"682","DC9 Nightclub","indie folk rock",1
-"683","DC9 Nightclub","indie pop",24
-"684","DC9 Nightclub","indie popalternative rock",2
-"685","DC9 Nightclub","indie popdream popart pop",1
-"686","DC9 Nightclub","indie popfolk rock",1
-"687","DC9 Nightclub","indie rock",87
-"688","DC9 Nightclub","indie rockbaroque poppost-rock",1
-"689","DC9 Nightclub","indie rockfolk rock",1
-"690","DC9 Nightclub","indie rockindie folkamericana",1
-"691","DC9 Nightclub","indie rocklo-fi musicamericanafolk",1
-"692","DC9 Nightclub","indie rockpower pop",1
-"693","DC9 Nightclub","indie rocksouthern rock",2
-"694","DC9 Nightclub","instrumental rock",3
-"695","DC9 Nightclub","jazz",1
-"696","DC9 Nightclub","krautrock",1
-"697","DC9 Nightclub","latin",1
-"698","DC9 Nightclub","math rock",1
-"699","DC9 Nightclub","mathcore",1
-"700","DC9 Nightclub","neo-psychedelia",1
-"701","DC9 Nightclub","new wave",1
-"702","DC9 Nightclub","noise pop",1
-"703","DC9 Nightclub","noise rock",2
-"704","DC9 Nightclub","pop",46
-"705","DC9 Nightclub","pop punk",1
-"706","DC9 Nightclub","post rock",1
-"707","DC9 Nightclub","post-hardcore",3
-"708","DC9 Nightclub","post-metal",1
-"709","DC9 Nightclub","post-punk",2
-"710","DC9 Nightclub","post-rock",3
-"711","DC9 Nightclub","psychedelic rock",6
-"712","DC9 Nightclub","psychedelic rockalternative rock",1
-"713","DC9 Nightclub","punk",1
-"714","DC9 Nightclub","punk rock",15
-"715","DC9 Nightclub","r&b",2
-"716","DC9 Nightclub","rap/hip hop",18
-"717","DC9 Nightclub","reggae",2
-"718","DC9 Nightclub","reggae pop",1
-"719","DC9 Nightclub","reggae/ska",4
-"720","DC9 Nightclub","rhythm & blues",1
-"721","DC9 Nightclub","riot grrrl",1
-"722","DC9 Nightclub","rock",180
-"723","DC9 Nightclub","rock and roll",12
-"724","DC9 Nightclub","rock and rolllo-fiexperimental rockslide guitar blues",1
-"725","DC9 Nightclub","rockindiealternative",1
-"726","DC9 Nightclub","rockpunk rock",1
-"727","DC9 Nightclub","shoegaze",3
-"728","DC9 Nightclub","shoegaze metal",1
-"729","DC9 Nightclub","shoegazing",1
-"730","DC9 Nightclub","singer-songwriter",3
-"731","DC9 Nightclub","singer/songwriter",4
-"732","DC9 Nightclub","soul",6
-"733","DC9 Nightclub","soul/r&b",3
-"734","DC9 Nightclub","soulfunkafrobeat",1
-"735","DC9 Nightclub","stoner rock",2
-"736","DC9 Nightclub","surf rock",3
-"737","DC9 Nightclub","synthpop",11
-"738","DC9 Nightclub","synthwave",1
-"739","DC9 Nightclub","twee popindie pop",1
-"740","DC9 Nightclub","world",4
-"741","Echostage","alternative hip hop",4
-"742","Echostage","alternative rock",1
-"743","Echostage","alternative/indie",11
-"744","Echostage","chamber pop",1
-"745","Echostage","country",1
-"746","Echostage","dance",2
-"747","Echostage","downtempo",1
-"748","Echostage","dubstep",8
-"749","Echostage","dutch house",1
-"750","Echostage","edm",17
-"751","Echostage","electro house",14
-"752","Echostage","electronic",3
-"753","Echostage","electronic dance music",2
-"754","Echostage","electronica",1
-"755","Echostage","electronica/dance",67
-"756","Echostage","electropop",3
-"757","Echostage","experimental rock",2
-"758","Echostage","folk",2
-"759","Echostage","future house",4
-"760","Echostage","glitch",1
-"761","Echostage","hip hop",35
-"762","Echostage","house",10
-"763","Echostage","indie folk",1
-"764","Echostage","indie pop",2
-"765","Echostage","indie rock",4
-"766","Echostage","latin",8
-"767","Echostage","melodic dubstep",1
-"768","Echostage","pop",9
-"769","Echostage","pop punk]",1
-"770","Echostage","pop rock",1
-"771","Echostage","progressive house",11
-"772","Echostage","progressive rock",2
-"773","Echostage","psychedelic trance",4
-"774","Echostage","r&b",1
-"775","Echostage","rap/hip hop",16
-"776","Echostage","reggae/ska",1
-"777","Echostage","reggaeton",4
-"778","Echostage","rock",4
-"779","Echostage","seasonal",1
-"780","Echostage","soca",1
-"781","Echostage","soul/r&b",2
-"782","Echostage","spanish rock",1
-"783","Echostage","synth-pop",3
-"784","Echostage","techno",2
-"785","Echostage","trance",13
-"786","Echostage","trance music",1
-"787","Echostage","trap",1
-"788","Echostage","vallenato",1
-"789","Echostage","world",4
-"790","Flash","alternative/indie",6
-"791","Flash","big beat",4
-"792","Flash","children's",1
-"793","Flash","dance",1
-"794","Flash","detroit techno",8
-"795","Flash","disco",1
-"796","Flash","drum & bass",1
-"797","Flash","drum and bass",4
-"798","Flash","dubstep",1
-"799","Flash","edm",1
-"800","Flash","electroclash",1
-"801","Flash","electronic",3
-"802","Flash","electronic dance musicacid houseminimal technotech housebreakbeatelectronica",2
-"803","Flash","electronic music",4
-"804","Flash","electronica",3
-"805","Flash","electronica/dance",252
-"806","Flash","experimental techno",3
-"807","Flash","funk",4
-"808","Flash","glitchmicrohouseelectropoptech house",1
-"809","Flash","hip hop",2
-"810","Flash","house",11
-"811","Flash","house music",1
-"812","Flash","idm",1
-"813","Flash","minimal house/minimal techno",1
-"814","Flash","pop",7
-"815","Flash","progressive house",2
-"816","Flash","rap/hip hop",9
-"817","Flash","reggae/ska",1
-"818","Flash","rock",6
-"819","Flash","tech",1
-"820","Flash","techno",6
-"821","Flash","technotech houseminimal",1
-"822","Flash","trance music",1
-"823","Howard Theatre","{{ hip hop",1
-"824","Howard Theatre","a cappella",2
-"825","Howard Theatre","acid jazz",1
-"826","Howard Theatre","acid jazzdiscofunk",1
-"827","Howard Theatre","acoustic rock",3
-"828","Howard Theatre","acousticpop",1
-"829","Howard Theatre","adult alternativeindie",1
-"830","Howard Theatre","adult contemporary",1
-"831","Howard Theatre","african rumba",1
-"832","Howard Theatre","afro pop",1
-"833","Howard Theatre","afrobeat",1
-"834","Howard Theatre","alternative dance",2
-"835","Howard Theatre","alternative hip hop",6
-"836","Howard Theatre","alternative metal",1
-"837","Howard Theatre","alternative r&b",2
-"838","Howard Theatre","alternative rock",10
-"839","Howard Theatre","alternative/indie",12
-"840","Howard Theatre","ambient house",2
-"841","Howard Theatre","bachatar&b",2
-"842","Howard Theatre","black metal",1
-"843","Howard Theatre","blues",15
-"844","Howard Theatre","blues rock",2
-"845","Howard Theatre","blues-rock",4
-"846","Howard Theatre","bounce",2
-"847","Howard Theatre","brass band",1
-"848","Howard Theatre","chicago blues",2
-"849","Howard Theatre","chicago soul",1
-"850","Howard Theatre","chicano rock",1
-"851","Howard Theatre","christian/gospel",12
-"852","Howard Theatre","comedy/spoken word",4
-"853","Howard Theatre","contemporary christian music",1
-"854","Howard Theatre","contemporary gospel",2
-"855","Howard Theatre","country",3
-"856","Howard Theatre","cuban music",2
-"857","Howard Theatre","dabke",1
-"858","Howard Theatre","death metal",1
-"859","Howard Theatre","dub",2
-"860","Howard Theatre","east coast hip hop",8
-"861","Howard Theatre","edm",2
-"862","Howard Theatre","electric blues",1
-"863","Howard Theatre","electro",2
-"864","Howard Theatre","electronic",3
-"865","Howard Theatre","electronic pop",1
-"866","Howard Theatre","electronica/dance",20
-"867","Howard Theatre","electropop",1
-"868","Howard Theatre","folk",6
-"869","Howard Theatre","folk rock",2
-"870","Howard Theatre","funk",14
-"871","Howard Theatre","go-go",7
-"872","Howard Theatre","golden age hip hop",2
-"873","Howard Theatre","gospel",3
-"874","Howard Theatre","gospel music",1
-"875","Howard Theatre","gypsy punk",1
-"876","Howard Theatre","hard rock",2
-"877","Howard Theatre","hardcore punk",2
-"878","Howard Theatre","heavy metal",2
-"879","Howard Theatre","hip hop",77
-"880","Howard Theatre","hip hop]",2
-"881","Howard Theatre","indie",1
-"882","Howard Theatre","indie pop",1
-"883","Howard Theatre","indie rock",2
-"884","Howard Theatre","instrumental",2
-"885","Howard Theatre","instrumental rock",1
-"886","Howard Theatre","jazz",65
-"887","Howard Theatre","jazz fusion",4
-"888","Howard Theatre","latin",17
-"889","Howard Theatre","latin jazz",1
-"890","Howard Theatre","latin pop",1
-"891","Howard Theatre","mbaqanga",1
-"892","Howard Theatre","midwest hip hop",1
-"893","Howard Theatre","mpb",2
-"894","Howard Theatre","neo-psychedelia",1
-"895","Howard Theatre","new flamenco",1
-"896","Howard Theatre","pop",35
-"897","Howard Theatre","pop rock",2
-"898","Howard Theatre","pop. pop rock",2
-"899","Howard Theatre","poplatin popcountry",1
-"900","Howard Theatre","post-hardcore",2
-"901","Howard Theatre","progressive metal",1
-"902","Howard Theatre","progressive rock",3
-"903","Howard Theatre","psychedelic soul",2
-"904","Howard Theatre","punk rock",3
-"905","Howard Theatre","punk rockreggae fusionska-punkalternative rockpost-punk (early)",1
-"906","Howard Theatre","r&b",77
-"907","Howard Theatre","rap/hip hop",50
-"908","Howard Theatre","reggae",33
-"909","Howard Theatre","reggae en españolreggaeroots reggae",2
-"910","Howard Theatre","reggae/ska",28
-"911","Howard Theatre","reggaeton",1
-"912","Howard Theatre","rhythm and blues",8
-"913","Howard Theatre","rock",59
-"914","Howard Theatre","rock and roll",4
-"915","Howard Theatre","rock en español",3
-"916","Howard Theatre","roots reggae",3
-"917","Howard Theatre","rumba",1
-"918","Howard Theatre","salsa",5
-"919","Howard Theatre","seasonal",2
-"920","Howard Theatre","singer-songwriter",1
-"921","Howard Theatre","ska",2
-"922","Howard Theatre","skate punk",1
-"923","Howard Theatre","smooth jazz",2
-"924","Howard Theatre","soca",1
-"925","Howard Theatre","soul",11
-"926","Howard Theatre","soul jazz",1
-"927","Howard Theatre","soul jazzacid jazz",1
-"928","Howard Theatre","soul/r&b",154
-"929","Howard Theatre","soundtracks",1
-"930","Howard Theatre","southern rock",1
-"931","Howard Theatre","spanish rock",2
-"932","Howard Theatre","tishoumaren",1
-"933","Howard Theatre","vocal jazz",3
-"934","Howard Theatre","world",27
-"935","Howard Theatre","world music",1
-"936","Howard Theatre","zydeco",1
-"937","Lincoln Theatre","a cappella",2
-"938","Lincoln Theatre","alternative country",4
-"939","Lincoln Theatre","alternative r&b",1
-"940","Lincoln Theatre","alternative rock",10
-"941","Lincoln Theatre","alternative/indie",23
-"942","Lincoln Theatre","americana",5
-"943","Lincoln Theatre","avant-garde jazz",1
-"944","Lincoln Theatre","bluegrass",1
-"945","Lincoln Theatre","cabaret",1
-"946","Lincoln Theatre","cello metal",1
-"947","Lincoln Theatre","chicago blues",1
-"948","Lincoln Theatre","christian rock",1
-"949","Lincoln Theatre","christian/gospel",2
-"950","Lincoln Theatre","classical/opera",1
-"951","Lincoln Theatre","comedy/spoken word",12
-"952","Lincoln Theatre","country",12
-"953","Lincoln Theatre","downtempo",2
-"954","Lincoln Theatre","electronic",1
-"955","Lincoln Theatre","electronica/dance",4
-"956","Lincoln Theatre","flamenco music",1
-"957","Lincoln Theatre","folk",21
-"958","Lincoln Theatre","folk punk",1
-"959","Lincoln Theatre","folk rock",3
-"960","Lincoln Theatre","folk-pop",5
-"961","Lincoln Theatre","funk",4
-"962","Lincoln Theatre","hard rock",1
-"963","Lincoln Theatre","hardcore punk",1
-"964","Lincoln Theatre","heartland rock",1
-"965","Lincoln Theatre","hip hop",2
-"966","Lincoln Theatre","house",1
-"967","Lincoln Theatre","indie electronic",2
-"968","Lincoln Theatre","indie folk",1
-"969","Lincoln Theatre","indie pop",2
-"970","Lincoln Theatre","indie rock",12
-"971","Lincoln Theatre","instrumental rock",1
-"972","Lincoln Theatre","jazz",4
-"973","Lincoln Theatre","minimal",1
-"974","Lincoln Theatre","new wave",2
-"975","Lincoln Theatre","old-time",2
-"976","Lincoln Theatre","pop",22
-"977","Lincoln Theatre","pop rock",9
-"978","Lincoln Theatre","progressive metal",1
-"979","Lincoln Theatre","progressive rock",3
-"980","Lincoln Theatre","punk rock",2
-"981","Lincoln Theatre","r&b",1
-"982","Lincoln Theatre","rap/hip hop",4
-"983","Lincoln Theatre","reggae",1
-"984","Lincoln Theatre","reggae/ska",2
-"985","Lincoln Theatre","rhythm and blues",2
-"986","Lincoln Theatre","rock",21
-"987","Lincoln Theatre","rock and roll",2
-"988","Lincoln Theatre","seasonal",1
-"989","Lincoln Theatre","smooth jazz",1
-"990","Lincoln Theatre","soul",1
-"991","Lincoln Theatre","soul/r&b",3
-"992","Lincoln Theatre","soundtracks",1
-"993","Lincoln Theatre","southern rock",1
-"994","Lincoln Theatre","texas country",1
-"995","Lincoln Theatre","trip hop",1
-"996","Lincoln Theatre","uk garage",1
-"997","Lincoln Theatre","vocal jazz",1
-"998","Lincoln Theatre","world",2
-"999","Merriweather Post Pavilion","alternative folk",1
-"1000","Merriweather Post Pavilion","alternative hip hop",2
-"1001","Merriweather Post Pavilion","alternative metal",4
-"1002","Merriweather Post Pavilion","alternative rock",49
-"1003","Merriweather Post Pavilion","alternative rockpost-grunge",1
-"1004","Merriweather Post Pavilion","alternative/indie",27
-"1005","Merriweather Post Pavilion","art rock",3
-"1006","Merriweather Post Pavilion","blue-eyed soul",1
-"1007","Merriweather Post Pavilion","bluegrass",1
-"1008","Merriweather Post Pavilion","blues rock",8
-"1009","Merriweather Post Pavilion","bro-country",1
-"1010","Merriweather Post Pavilion","chamber pop",2
-"1011","Merriweather Post Pavilion","chillwave",1
-"1012","Merriweather Post Pavilion","christian metal",1
-"1013","Merriweather Post Pavilion","christian/gospel",2
-"1014","Merriweather Post Pavilion","contemporary christian",1
-"1015","Merriweather Post Pavilion","country",39
-"1016","Merriweather Post Pavilion","country pop",2
-"1017","Merriweather Post Pavilion","country rock",1
-"1018","Merriweather Post Pavilion","country4]",2
-"1019","Merriweather Post Pavilion","downtempo",1
-"1020","Merriweather Post Pavilion","edm",1
-"1021","Merriweather Post Pavilion","electronica/dance",2
-"1022","Merriweather Post Pavilion","experimental pop",2
-"1023","Merriweather Post Pavilion","experimental rock",1
-"1024","Merriweather Post Pavilion","folk",13
-"1025","Merriweather Post Pavilion","folk rock",3
-"1026","Merriweather Post Pavilion","garage rock",1
-"1027","Merriweather Post Pavilion","glam metal",1
-"1028","Merriweather Post Pavilion","gospel",1
-"1029","Merriweather Post Pavilion","gulf and western",41
-"1030","Merriweather Post Pavilion","hard rock",9
-"1031","Merriweather Post Pavilion","heartland rock",1
-"1032","Merriweather Post Pavilion","heavy metal",4
-"1033","Merriweather Post Pavilion","heavy metal]",2
-"1034","Merriweather Post Pavilion","hip hop",6
-"1035","Merriweather Post Pavilion","indie folk",6
-"1036","Merriweather Post Pavilion","indie pop",7
-"1037","Merriweather Post Pavilion","indie rock",15
-"1038","Merriweather Post Pavilion","indie rock",1
-"1039","Merriweather Post Pavilion","indietronica",1
-"1040","Merriweather Post Pavilion","jazz",9
-"1041","Merriweather Post Pavilion","jazz fusion",1
-"1042","Merriweather Post Pavilion","jazz rock",2
-"1043","Merriweather Post Pavilion","latin",4
-"1044","Merriweather Post Pavilion","melodic hardcore",1
-"1045","Merriweather Post Pavilion","metalcore",2
-"1046","Merriweather Post Pavilion","new wave",10
-"1047","Merriweather Post Pavilion","old-time",1
-"1048","Merriweather Post Pavilion","pop",86
-"1049","Merriweather Post Pavilion","pop punk",4
-"1050","Merriweather Post Pavilion","pop punk]",1
-"1051","Merriweather Post Pavilion","pop rock",3
-"1052","Merriweather Post Pavilion","post-grunge",4
-"1053","Merriweather Post Pavilion","post-hardcore",4
-"1054","Merriweather Post Pavilion","post-punk",1
-"1055","Merriweather Post Pavilion","progressive house",1
-"1056","Merriweather Post Pavilion","progressive metal",1
-"1057","Merriweather Post Pavilion","progressive rock",15
-"1058","Merriweather Post Pavilion","psychedelic rock",1
-"1059","Merriweather Post Pavilion","psychobilly",1
-"1060","Merriweather Post Pavilion","punk rock",4
-"1061","Merriweather Post Pavilion","r&b",5
-"1062","Merriweather Post Pavilion","rap metal",1
-"1063","Merriweather Post Pavilion","rap/hip hop",9
-"1064","Merriweather Post Pavilion","rock",146
-"1065","Merriweather Post Pavilion","roots rock",2
-"1066","Merriweather Post Pavilion","smooth jazz",1
-"1067","Merriweather Post Pavilion","soul/r&b",11
-"1068","Merriweather Post Pavilion","soundtrack",1
-"1069","Merriweather Post Pavilion","southern rock",12
-"1070","Merriweather Post Pavilion","synthpop",4
-"1071","Merriweather Post Pavilion","trance fusion",1
-"1072","Merriweather Post Pavilion","world",3
-"1073","Rock & Roll Hotel","afrofunkafrobeatfunkhighlifeafropop",4
-"1074","Rock & Roll Hotel","alt country",1
-"1075","Rock & Roll Hotel","alt. country",1
-"1076","Rock & Roll Hotel","alternative",1
-"1077","Rock & Roll Hotel","alternative country",5
-"1078","Rock & Roll Hotel","alternative dance",1
-"1079","Rock & Roll Hotel","alternative hip hop",6
-"1080","Rock & Roll Hotel","alternative r&b",1
-"1081","Rock & Roll Hotel","alternative rock",59
-"1082","Rock & Roll Hotel","alternative rockindie rock",1
-"1083","Rock & Roll Hotel","alternative rockindie rockpost-punk revival",2
-"1084","Rock & Roll Hotel","alternative/indie",250
-"1085","Rock & Roll Hotel","ambient",1
-"1086","Rock & Roll Hotel","americana",5
-"1087","Rock & Roll Hotel","americanafolk rockalternative country",1
-"1088","Rock & Roll Hotel","art pop",3
-"1089","Rock & Roll Hotel","art rock",1
-"1090","Rock & Roll Hotel","avant-garde",1
-"1091","Rock & Roll Hotel","avant-garde rockexperimentalneo-psychedeliaambientpost-punkindustrialnoisesynthpopindustrial rocknoise rock",1
-"1092","Rock & Roll Hotel","black 'n' roll",1
-"1093","Rock & Roll Hotel","black metal",1
-"1094","Rock & Roll Hotel","blackened death metal",1
-"1095","Rock & Roll Hotel","bluegrass",2
-"1096","Rock & Roll Hotel","blues",1
-"1097","Rock & Roll Hotel","blues rock",5
-"1098","Rock & Roll Hotel","bounce",3
-"1099","Rock & Roll Hotel","celtic punk",1
-"1100","Rock & Roll Hotel","children's",4
-"1101","Rock & Roll Hotel","chillwave",2
-"1102","Rock & Roll Hotel","christian/gospel",3
-"1103","Rock & Roll Hotel","classical/opera",2
-"1104","Rock & Roll Hotel","comedy/spoken word",2
-"1105","Rock & Roll Hotel","country",8
-"1106","Rock & Roll Hotel","crooner",5
-"1107","Rock & Roll Hotel","crossover thrash",1
-"1108","Rock & Roll Hotel","dance-pop",2
-"1109","Rock & Roll Hotel","death metal",2
-"1110","Rock & Roll Hotel","desert rock",1
-"1111","Rock & Roll Hotel","disco",1
-"1112","Rock & Roll Hotel","dream pop",2
-"1113","Rock & Roll Hotel","east coast hip hop",2
-"1114","Rock & Roll Hotel","electronic",6
-"1115","Rock & Roll Hotel","electronic music",1
-"1116","Rock & Roll Hotel","electronic rock",5
-"1117","Rock & Roll Hotel","electronica",6
-"1118","Rock & Roll Hotel","electronica/dance",59
-"1119","Rock & Roll Hotel","electropop",1
-"1120","Rock & Roll Hotel","emo",6
-"1121","Rock & Roll Hotel","experimental",5
-"1122","Rock & Roll Hotel","experimental hip hop",2
-"1123","Rock & Roll Hotel","experimental rock",10
-"1124","Rock & Roll Hotel","folk",26
-"1125","Rock & Roll Hotel","folk punk",1
-"1126","Rock & Roll Hotel","folk rock",9
-"1127","Rock & Roll Hotel","freak folk",1
-"1128","Rock & Roll Hotel","funk rock",1
-"1129","Rock & Roll Hotel","funk-pop]",1
-"1130","Rock & Roll Hotel","futurepop",1
-"1131","Rock & Roll Hotel","garage rock",8
-"1132","Rock & Roll Hotel","garage rockpost-punk revivalindie rock",2
-"1133","Rock & Roll Hotel","glam rock",3
-"1134","Rock & Roll Hotel","grime",1
-"1135","Rock & Roll Hotel","grindcore",1
-"1136","Rock & Roll Hotel","groove metal",1
-"1137","Rock & Roll Hotel","hard rock",4
-"1138","Rock & Roll Hotel","hard rock]",1
-"1139","Rock & Roll Hotel","hardcore punk",7
-"1140","Rock & Roll Hotel","heavy metal",4
-"1141","Rock & Roll Hotel","hip hop",34
-"1142","Rock & Roll Hotel","house",1
-"1143","Rock & Roll Hotel","hypnagogic pop",1
-"1144","Rock & Roll Hotel","indie",7
-"1145","Rock & Roll Hotel","indie electronic",2
-"1146","Rock & Roll Hotel","indie folk",10
-"1147","Rock & Roll Hotel","indie pop",27
-"1148","Rock & Roll Hotel","indie popalternative rock",1
-"1149","Rock & Roll Hotel","indie popfolk rock",1
-"1150","Rock & Roll Hotel","indie popindie rocktwee pop",1
-"1151","Rock & Roll Hotel","indie rock",141
-"1152","Rock & Roll Hotel","indie rockbaroque poppost-rock",2
-"1153","Rock & Roll Hotel","indie rockfolk rockpsychedelic rockprogressive rock",2
-"1154","Rock & Roll Hotel","indie rockindie folk",2
-"1155","Rock & Roll Hotel","indie rockindie folkamericana",4
-"1156","Rock & Roll Hotel","indie rockpower pop",1
-"1157","Rock & Roll Hotel","indie rockpunkgrunge",1
-"1158","Rock & Roll Hotel","indie rocksouthern rock",3
-"1159","Rock & Roll Hotel","indietronica",1
-"1160","Rock & Roll Hotel","indietronicafolktronicaalternative rockbaroque pop",1
-"1161","Rock & Roll Hotel","industrial metal",1
-"1162","Rock & Roll Hotel","instrumental metal",1
-"1163","Rock & Roll Hotel","instrumental rock",2
-"1164","Rock & Roll Hotel","jazz",1
-"1165","Rock & Roll Hotel","jazz fusion",2
-"1166","Rock & Roll Hotel","latin",1
-"1167","Rock & Roll Hotel","lo-finoise pop",1
-"1168","Rock & Roll Hotel","math rock",3
-"1169","Rock & Roll Hotel","mathcore",2
-"1170","Rock & Roll Hotel","melodic death metal",1
-"1171","Rock & Roll Hotel","melodic hardcore",1
-"1172","Rock & Roll Hotel","metalcore",5
-"1173","Rock & Roll Hotel","neo-psychedelia",2
-"1174","Rock & Roll Hotel","nerdcore",1
-"1175","Rock & Roll Hotel","new age",1
-"1176","Rock & Roll Hotel","new orleans",1
-"1177","Rock & Roll Hotel","new wave",3
-"1178","Rock & Roll Hotel","new weird america",1
-"1179","Rock & Roll Hotel","noise rock",6
-"1180","Rock & Roll Hotel","nu-disco",3
-"1181","Rock & Roll Hotel","piano rock",2
-"1182","Rock & Roll Hotel","pop",31
-"1183","Rock & Roll Hotel","pop punk",2
-"1184","Rock & Roll Hotel","pop rock",5
-"1185","Rock & Roll Hotel","post-hardcore",7
-"1186","Rock & Roll Hotel","post-industrial",1
-"1187","Rock & Roll Hotel","post-metal",5
-"1188","Rock & Roll Hotel","post-punk",11
-"1189","Rock & Roll Hotel","post-punk revival",3
-"1190","Rock & Roll Hotel","post-rock",5
-"1191","Rock & Roll Hotel","power metal",1
-"1192","Rock & Roll Hotel","power pop",1
-"1193","Rock & Roll Hotel","progressive metal",1
-"1194","Rock & Roll Hotel","progressive rock",1
-"1195","Rock & Roll Hotel","psychedelic pop",1
-"1196","Rock & Roll Hotel","psychedelic rock",8
-"1197","Rock & Roll Hotel","psychobilly",1
-"1198","Rock & Roll Hotel","punk blues",1
-"1199","Rock & Roll Hotel","punk rock",28
-"1200","Rock & Roll Hotel","punk rockpunk cabaretcircus punk",2
-"1201","Rock & Roll Hotel","r&b",3
-"1202","Rock & Roll Hotel","rap/hip hop",17
-"1203","Rock & Roll Hotel","reggae",3
-"1204","Rock & Roll Hotel","reggae/ska",8
-"1205","Rock & Roll Hotel","rhythm and blues",2
-"1206","Rock & Roll Hotel","rock",206
-"1207","Rock & Roll Hotel","rock and roll",11
-"1208","Rock & Roll Hotel","rock and rollamericanapunk rockblues rock",1
-"1209","Rock & Roll Hotel","rockabilly",2
-"1210","Rock & Roll Hotel","rockindie rockalternative rock",1
-"1211","Rock & Roll Hotel","roots music",4
-"1212","Rock & Roll Hotel","shoegaze",3
-"1213","Rock & Roll Hotel","singer-songwriter",2
-"1214","Rock & Roll Hotel","ska",4
-"1215","Rock & Roll Hotel","ska punk",4
-"1216","Rock & Roll Hotel","skate punk",1
-"1217","Rock & Roll Hotel","sludge metal",3
-"1218","Rock & Roll Hotel","soul",5
-"1219","Rock & Roll Hotel","soul/r&b",6
-"1220","Rock & Roll Hotel","soulfunkafrobeat",1
-"1221","Rock & Roll Hotel","southern soul",1
-"1222","Rock & Roll Hotel","space rock",1
-"1223","Rock & Roll Hotel","stoner metal",2
-"1224","Rock & Roll Hotel","synthpop",11
-"1225","Rock & Roll Hotel","trip hop",1
-"1226","Songbyrd","alternative hip hop",1
-"1227","Songbyrd","alternative pop",1
-"1228","Songbyrd","alternative rock",1
-"1229","Songbyrd","alternative/indie",29
-"1230","Songbyrd","americana",1
-"1231","Songbyrd","avant-garde",1
-"1232","Songbyrd","blues",3
-"1233","Songbyrd","country",4
-"1234","Songbyrd","dream pop",1
-"1235","Songbyrd","drone",1
-"1236","Songbyrd","electronica",2
-"1237","Songbyrd","electronica/dance",11
-"1238","Songbyrd","electropop",1
-"1239","Songbyrd","emo",1
-"1240","Songbyrd","experimental rock",2
-"1241","Songbyrd","folk",5
-"1242","Songbyrd","folk punk",1
-"1243","Songbyrd","funk rock",1
-"1244","Songbyrd","funk-soul",1
-"1245","Songbyrd","garage rock",2
-"1246","Songbyrd","heavy metal",1
-"1247","Songbyrd","hip hop",5
-"1248","Songbyrd","indie",1
-"1249","Songbyrd","indie folk",1
-"1250","Songbyrd","indie pop",2
-"1251","Songbyrd","indie rock",4
-"1252","Songbyrd","jazz rock",1
-"1253","Songbyrd","lo-fi",2
-"1254","Songbyrd","pop",10
-"1255","Songbyrd","pop · piano rock · indie",1
-"1256","Songbyrd","pop punk",1
-"1257","Songbyrd","punk rock",1
-"1258","Songbyrd","r&b",1
-"1259","Songbyrd","r&b / indie pop",1
-"1260","Songbyrd","rap/hip hop",7
-"1261","Songbyrd","reggae/ska",3
-"1262","Songbyrd","rhythm & sound",1
-"1263","Songbyrd","rock",32
-"1264","Songbyrd","roots music",1
-"1265","Songbyrd","sadcore",1
-"1266","Songbyrd","soul/r&b",2
-"1267","Songbyrd","synthpop",2
-"1268","Songbyrd","turntablism",1
-"1269","Songbyrd","world",1
-"1270","Soundcheck","dance",1
-"1271","Soundcheck","dance-pop",1
-"1272","Soundcheck","deep house",1
-"1273","Soundcheck","drum and bass",3
-"1274","Soundcheck","drum and bass (specifically neurofunk and techstep)3]",1
-"1275","Soundcheck","dubstep",5
-"1276","Soundcheck","edm",6
-"1277","Soundcheck","electro",1
-"1278","Soundcheck","electro house",6
-"1279","Soundcheck","electronic",1
-"1280","Soundcheck","electronic dance music (edm)",1
-"1281","Soundcheck","electronica",7
-"1282","Soundcheck","electronica/dance",102
-"1283","Soundcheck","electropop",1
-"1284","Soundcheck","experimental techno",1
-"1285","Soundcheck","hard house",1
-"1286","Soundcheck","house",20
-"1287","Soundcheck","house music",1
-"1288","Soundcheck","indie rock",1
-"1289","Soundcheck","pop",3
-"1290","Soundcheck","progressive house",7
-"1291","Soundcheck","progressive trance",4
-"1292","Soundcheck","rock",5
-"1293","Soundcheck","soul/r&b",1
-"1294","Soundcheck","techno",6
-"1295","Soundcheck","trance",6
-"1296","Soundcheck","trance (earlier works)",1
-"1297","Soundcheck","trance music",2
-"1298","Soundcheck","trap",1
-"1299","Soundcheck","tribal house",1
-"1300","Soundcheck","world",1
-"1301","Strathmore","acoustic",1
-"1302","Strathmore","adult contemporary",1
-"1303","Strathmore","afro-cuban jazz",1
-"1304","Strathmore","alternative rock",10
-"1305","Strathmore","alternative/indie",6
-"1306","Strathmore","americana",3
-"1307","Strathmore","americanaold-time music",1
-"1308","Strathmore","baroque",3
-"1309","Strathmore","blue-eyed soul",1
-"1310","Strathmore","bluegrass",3
-"1311","Strathmore","bluegrassjam band",1
-"1312","Strathmore","blues",1
-"1313","Strathmore","bossa nova",2
-"1314","Strathmore","broadway",1
-"1315","Strathmore","cabaret",1
-"1316","Strathmore","cante flamenco",1
-"1317","Strathmore","cape breton fiddle music",2
-"1318","Strathmore","cast recordings/cabaret",4
-"1319","Strathmore","ccm",1
-"1320","Strathmore","celtic",1
-"1321","Strathmore","christian/gospel",3
-"1322","Strathmore","classical",4
-"1323","Strathmore","classical/opera",34
-"1324","Strathmore","comedy/spoken word",4
-"1325","Strathmore","country",13
-"1326","Strathmore","cuban music",1
-"1327","Strathmore","delta blues",3
-"1328","Strathmore","easy listening",2
-"1329","Strathmore","electronic",1
-"1330","Strathmore","fado",1
-"1331","Strathmore","folk",10
-"1332","Strathmore","folk rock",1
-"1333","Strathmore","go-go",2
-"1334","Strathmore","gospel",3
-"1335","Strathmore","heartland rock",3
-"1336","Strathmore","indie pop",1
-"1337","Strathmore","instrumental rock",2
-"1338","Strathmore","isicathamiya",2
-"1339","Strathmore","jazz",31
-"1340","Strathmore","latin",2
-"1341","Strathmore","musical theatre",1
-"1342","Strathmore","new age",3
-"1343","Strathmore","operatic pop",1
-"1344","Strathmore","philadelphia soul",1
-"1345","Strathmore","pop",36
-"1346","Strathmore","pop jazz",1
-"1347","Strathmore","pop rock",2
-"1348","Strathmore","progressive bluegrass",1
-"1349","Strathmore","progressive rock",2
-"1350","Strathmore","r&b",13
-"1351","Strathmore","rap/hip hop",1
-"1352","Strathmore","reggae",1
-"1353","Strathmore","rock",17
-"1354","Strathmore","rock and roll",1
-"1355","Strathmore","roots rock",1
-"1356","Strathmore","seasonal",4
-"1357","Strathmore","sephardic music",1
-"1358","Strathmore","smooth jazz",3
-"1359","Strathmore","soul/r&b",9
-"1360","Strathmore","soundtracks",1
-"1361","Strathmore","southern rock",1
-"1362","Strathmore","swing revival",2
-"1363","Strathmore","synthpop",1
-"1364","Strathmore","the great american songbook",3
-"1365","Strathmore","traditional irishirish folkceltic",1
-"1366","Strathmore","vocal jazz",4
-"1367","Strathmore","vocal play",1
-"1368","Strathmore","vocals",11
-"1369","Strathmore","world",7
-"1370","The Anthem","alternative rock",1
-"1371","The Anthem","alternative/indie",4
-"1372","The Anthem","blues",1
-"1373","The Anthem","christian/gospel",1
-"1374","The Anthem","dance-punk]",2
-"1375","The Anthem","electronica",1
-"1376","The Anthem","electronica/dance",2
-"1377","The Anthem","indie folk",1
-"1378","The Anthem","indie pop",1
-"1379","The Anthem","indie rock",1
-"1380","The Anthem","indietronica",1
-"1381","The Anthem","pop",2
-"1382","The Anthem","reggae",1
-"1383","The Anthem","rock",3
-"1384","The Anthem","soul/r&b",1
-"1385","The Fillmore","acid jazzdiscofunk",1
-"1386","The Fillmore","afro-pop",1
-"1387","The Fillmore","afropop",1
-"1388","The Fillmore","alternative hip hop",3
-"1389","The Fillmore","alternative metal",11
-"1390","The Fillmore","alternative r&b",1
-"1391","The Fillmore","alternative rock",37
-"1392","The Fillmore","alternative rock]3]4]",1
-"1393","The Fillmore","alternative/indie",33
-"1394","The Fillmore","americana",1
-"1395","The Fillmore","ameripolitan",1
-"1396","The Fillmore","blackened death metal",1
-"1397","The Fillmore","blue-eyed soul",1
-"1398","The Fillmore","blues",2
-"1399","The Fillmore","blues rock",3
-"1400","The Fillmore","breakcore",1
-"1401","The Fillmore","celtic punk",5
-"1402","The Fillmore","chamber pop",1
-"1403","The Fillmore","children's",1
-"1404","The Fillmore","christian hip hop",4
-"1405","The Fillmore","christian metal",1
-"1406","The Fillmore","christian/gospel",2
-"1407","The Fillmore","classical",1
-"1408","The Fillmore","country",41
-"1409","The Fillmore","country pop",1
-"1410","The Fillmore","country rock",1
-"1411","The Fillmore","country]3]",1
-"1412","The Fillmore","country3]4]",1
-"1413","The Fillmore","dance-pop",2
-"1414","The Fillmore","dutch house",1
-"1415","The Fillmore","east coast hip hop",1
-"1416","The Fillmore","edm",2
-"1417","The Fillmore","electro funk",1
-"1418","The Fillmore","electro house",3
-"1419","The Fillmore","electronic",1
-"1420","The Fillmore","electronica",2
-"1421","The Fillmore","electronica/dance",17
-"1422","The Fillmore","emo",5
-"1423","The Fillmore","extreme metal",1
-"1424","The Fillmore","folk",2
-"1425","The Fillmore","glam metal",1
-"1426","The Fillmore","glitch",1
-"1427","The Fillmore","go-go",1
-"1428","The Fillmore","gothic metal",1
-"1429","The Fillmore","griot",1
-"1430","The Fillmore","hard rock",8
-"1431","The Fillmore","hardcore punk",1
-"1432","The Fillmore","heavy metal",5
-"1433","The Fillmore","hip hop",72
-"1434","The Fillmore","indie pop",2
-"1435","The Fillmore","indie rock",9
-"1436","The Fillmore","industrial",1
-"1437","The Fillmore","industrial metal",1
-"1438","The Fillmore","jazz",1
-"1439","The Fillmore","latin",12
-"1440","The Fillmore","latin pop",4
-"1441","The Fillmore","livetronica",3
-"1442","The Fillmore","mathcore",1
-"1443","The Fillmore","melodic death metal",4
-"1444","The Fillmore","melodic hardcore",1
-"1445","The Fillmore","metalcore",11
-"1446","The Fillmore","midwest hip hop",5
-"1447","The Fillmore","música tropical",1
-"1448","The Fillmore","new wave",1
-"1449","The Fillmore","nu metal",1
-"1450","The Fillmore","parody",1
-"1451","The Fillmore","pop",38
-"1452","The Fillmore","pop music",1
-"1453","The Fillmore","pop punk",5
-"1454","The Fillmore","pop punk]",1
-"1455","The Fillmore","pop rock",8
-"1456","The Fillmore","pop-rap",1
-"1457","The Fillmore","post-grunge",2
-"1458","The Fillmore","post-hardcore",6
-"1459","The Fillmore","post-punk",1
-"1460","The Fillmore","power metal",1
-"1461","The Fillmore","progressive house",3
-"1462","The Fillmore","progressive metal",2
-"1463","The Fillmore","psybient",1
-"1464","The Fillmore","psychedelic rock",1
-"1465","The Fillmore","punk rock",8
-"1466","The Fillmore","r&b",18
-"1467","The Fillmore","rap/hip hop",63
-"1468","The Fillmore","reggae",2
-"1469","The Fillmore","reggae pop",1
-"1470","The Fillmore","reggae rock",2
-"1471","The Fillmore","reggae/ska",6
-"1472","The Fillmore","reggaeton",1
-"1473","The Fillmore","rhythm and blues",2
-"1474","The Fillmore","rock",82
-"1475","The Fillmore","salsa",2
-"1476","The Fillmore","seasonal",1
-"1477","The Fillmore","ska",1
-"1478","The Fillmore","ska punk",8
-"1479","The Fillmore","soul/r&b",24
-"1480","The Fillmore","southern rock",11
-"1481","The Fillmore","symphonic metal",1
-"1482","The Fillmore","synthpop",1
-"1483","The Fillmore","teen pop",1
-"1484","The Fillmore","tone",2
-"1485","The Fillmore","world",1
-"1486","The Kennedy Center","acoustic",1
-"1487","The Kennedy Center","alternative pop",1
-"1488","The Kennedy Center","alternative rock",3
-"1489","The Kennedy Center","alternative/indie",21
-"1490","The Kennedy Center","americana",2
-"1491","The Kennedy Center","baroque",3
-"1492","The Kennedy Center","bluegrass",6
-"1493","The Kennedy Center","blues",4
-"1494","The Kennedy Center","broadway",1
-"1495","The Kennedy Center","cabaret",1
-"1496","The Kennedy Center","cajun",1
-"1497","The Kennedy Center","caribbean music",1
-"1498","The Kennedy Center","cast recordings/cabaret",4
-"1499","The Kennedy Center","ccm",1
-"1500","The Kennedy Center","cello rock",1
-"1501","The Kennedy Center","christian hip hop",1
-"1502","The Kennedy Center","christian/gospel",7
-"1503","The Kennedy Center","classical",18
-"1504","The Kennedy Center","classical crossover",2
-"1505","The Kennedy Center","classical/opera",89
-"1506","The Kennedy Center","comedy/spoken word",13
-"1507","The Kennedy Center","contemporary christian",1
-"1508","The Kennedy Center","contemporary christian music",1
-"1509","The Kennedy Center","contemporary folk",1
-"1510","The Kennedy Center","country",7
-"1511","The Kennedy Center","deathcore",1
-"1512","The Kennedy Center","doo-wop",1
-"1513","The Kennedy Center","downtempo",1
-"1514","The Kennedy Center","electric blues",1
-"1515","The Kennedy Center","electronica",1
-"1516","The Kennedy Center","electronica/dance",6
-"1517","The Kennedy Center","folk",18
-"1518","The Kennedy Center","folk rock",1
-"1519","The Kennedy Center","free jazz",1
-"1520","The Kennedy Center","funk",4
-"1521","The Kennedy Center","griot",1
-"1522","The Kennedy Center","idm",1
-"1523","The Kennedy Center","indie folk",2
-"1524","The Kennedy Center","instrumental",1
-"1525","The Kennedy Center","isicathamiya",1
-"1526","The Kennedy Center","jazz",117
-"1527","The Kennedy Center","jiveswingboogie woogieskiffle",1
-"1528","The Kennedy Center","latin",6
-"1529","The Kennedy Center","latin jazz",1
-"1530","The Kennedy Center","latin rock",1
-"1531","The Kennedy Center","minimalist music",1
-"1532","The Kennedy Center","mpb",1
-"1533","The Kennedy Center","musical theatre · film music · pops",1
-"1534","The Kennedy Center","old-time",1
-"1535","The Kennedy Center","percussion",1
-"1536","The Kennedy Center","pop",31
-"1537","The Kennedy Center","pop jazz",11
-"1538","The Kennedy Center","pop rock",1
-"1539","The Kennedy Center","r&b",10
-"1540","The Kennedy Center","rap/hip hop",5
-"1541","The Kennedy Center","rhythm and blues",1
-"1542","The Kennedy Center","rock",27
-"1543","The Kennedy Center","rock and roll",1
-"1544","The Kennedy Center","scottish/celtic",1
-"1545","The Kennedy Center","seasonal",1
-"1546","The Kennedy Center","smooth jazz",1
-"1547","The Kennedy Center","soul",2
-"1548","The Kennedy Center","soul jazz",1
-"1549","The Kennedy Center","soul/r&b",11
-"1550","The Kennedy Center","soundtracks",2
-"1551","The Kennedy Center","the great american songbook",1
-"1552","The Kennedy Center","traditional",1
-"1553","The Kennedy Center","traditional irishirish folkceltic",4
-"1554","The Kennedy Center","vocal jazz",6
-"1555","The Kennedy Center","vocals",5
-"1556","The Kennedy Center","world",400
-"1557","The Kennedy Center","world music",1
-"1558","U Street Music Hall","adult alternativeindie",1
-"1559","U Street Music Hall","afrofunkafrobeatfunkhighlifeafropop",3
-"1560","U Street Music Hall","alternative",2
-"1561","U Street Music Hall","alternative dance",1
-"1562","U Street Music Hall","alternative hip hop",11
-"1563","U Street Music Hall","alternative r&b",7
-"1564","U Street Music Hall","alternative rock",14
-"1565","U Street Music Hall","alternative rockindie pop",2
-"1566","U Street Music Hall","alternative/indie",109
-"1567","U Street Music Hall","ambient",5
-"1568","U Street Music Hall","americana",1
-"1569","U Street Music Hall","art rock",1
-"1570","U Street Music Hall","avant-garde rockexperimentalneo-psychedeliaambientpost-punkindustrialnoisesynthpopindustrial rocknoise rock",1
-"1571","U Street Music Hall","big beat",1
-"1572","U Street Music Hall","bluegrass",3
-"1573","U Street Music Hall","blues rock",2
-"1574","U Street Music Hall","brass house",1
-"1575","U Street Music Hall","celtic punk",1
-"1576","U Street Music Hall","chillwave",1
-"1577","U Street Music Hall","christian rock",1
-"1578","U Street Music Hall","comedy/spoken word",5
-"1579","U Street Music Hall","country",4
-"1580","U Street Music Hall","dance",1
-"1581","U Street Music Hall","dance musicfirst nations music",1
-"1582","U Street Music Hall","dance-punk",2
-"1583","U Street Music Hall","dance-rock",1
-"1584","U Street Music Hall","deep house",5
-"1585","U Street Music Hall","detroit techno",4
-"1586","U Street Music Hall","disco",1
-"1587","U Street Music Hall","dream pop",3
-"1588","U Street Music Hall","drum and bass",13
-"1589","U Street Music Hall","drum and bass (specifically neurofunk and techstep)3]",1
-"1590","U Street Music Hall","dub",1
-"1591","U Street Music Hall","dubstep",6
-"1592","U Street Music Hall","edm",6
-"1593","U Street Music Hall","electro",1
-"1594","U Street Music Hall","electro funk",1
-"1595","U Street Music Hall","electro house",10
-"1596","U Street Music Hall","electro-funk",1
-"1597","U Street Music Hall","electronic",44
-"1598","U Street Music Hall","electronic dance musicacid houseminimal technotech housebreakbeatelectronica",3
-"1599","U Street Music Hall","electronic music",3
-"1600","U Street Music Hall","electronic musicpost rockindie rock",1
-"1601","U Street Music Hall","electronica",25
-"1602","U Street Music Hall","electronica/dance",452
-"1603","U Street Music Hall","electronicminimal technomicrohousedark ambient",2
-"1604","U Street Music Hall","electropop",9
-"1605","U Street Music Hall","emo",1
-"1606","U Street Music Hall","ethiojazzethiopian music",1
-"1607","U Street Music Hall","ethno-chaos",1
-"1608","U Street Music Hall","experimental pop",4
-"1609","U Street Music Hall","experimental rock",2
-"1610","U Street Music Hall","folk",7
-"1611","U Street Music Hall","folk rock",3
-"1612","U Street Music Hall","folk-pop",1
-"1613","U Street Music Hall","folk-pop/indie pop/indie rock",1
-"1614","U Street Music Hall","folktronica",2
-"1615","U Street Music Hall","french house",4
-"1616","U Street Music Hall","funk",5
-"1617","U Street Music Hall","glam metal]",2
-"1618","U Street Music Hall","glitch",1
-"1619","U Street Music Hall","glitchmicrohouseelectropoptech house",10
-"1620","U Street Music Hall","grime",1
-"1621","U Street Music Hall","hard rock",1
-"1622","U Street Music Hall","heavy metal",1
-"1623","U Street Music Hall","hip hop",58
-"1624","U Street Music Hall","house",71
-"1625","U Street Music Hall","house music",1
-"1626","U Street Music Hall","house/disco/acid rock",1
-"1627","U Street Music Hall","hypnagogic pop",1
-"1628","U Street Music Hall","idm",1
-"1629","U Street Music Hall","indie",4
-"1630","U Street Music Hall","indie folk",5
-"1631","U Street Music Hall","indie pop",22
-"1632","U Street Music Hall","indie rock",25
-"1633","U Street Music Hall","indie rockalternative rockpop rockindie pop",1
-"1634","U Street Music Hall","indietronica",5
-"1635","U Street Music Hall","industrial house",1
-"1636","U Street Music Hall","industrialindustrial metal",1
-"1637","U Street Music Hall","instrumental hip hop",1
-"1638","U Street Music Hall","jazz",12
-"1639","U Street Music Hall","jazz fusion",2
-"1640","U Street Music Hall","kuduro",3
-"1641","U Street Music Hall","latin",1
-"1642","U Street Music Hall","lounge",2
-"1643","U Street Music Hall","melodic folk",1
-"1644","U Street Music Hall","neo-soul",2
-"1645","U Street Music Hall","new wave",1
-"1646","U Street Music Hall","new weird america",1
-"1647","U Street Music Hall","nu-disco",5
-"1648","U Street Music Hall","outlaw country",1
-"1649","U Street Music Hall","piano rock",2
-"1650","U Street Music Hall","pop",55
-"1651","U Street Music Hall","pop rock",4
-"1652","U Street Music Hall","pop-rap",1
-"1653","U Street Music Hall","post-bop",2
-"1654","U Street Music Hall","post-grunge",1
-"1655","U Street Music Hall","post-industrial",1
-"1656","U Street Music Hall","post-rock",3
-"1657","U Street Music Hall","psychedelia",1
-"1658","U Street Music Hall","psychedelic",2
-"1659","U Street Music Hall","psychedelic pop",1
-"1660","U Street Music Hall","psychedelic rock",3
-"1661","U Street Music Hall","punk",1
-"1662","U Street Music Hall","punk rock",4
-"1663","U Street Music Hall","r&b",7
-"1664","U Street Music Hall","rap/hip hop",37
-"1665","U Street Music Hall","reggae",1
-"1666","U Street Music Hall","reggae rock",1
-"1667","U Street Music Hall","reggae/ska",4
-"1668","U Street Music Hall","rock",33
-"1669","U Street Music Hall","rock and roll",1
-"1670","U Street Music Hall","roots reggae",2
-"1671","U Street Music Hall","singer-songwriter",1
-"1672","U Street Music Hall","sludge metal",1
-"1673","U Street Music Hall","soft rock",2
-"1674","U Street Music Hall","soul",7
-"1675","U Street Music Hall","soul pop",1
-"1676","U Street Music Hall","soul/r&b",11
-"1677","U Street Music Hall","synth-pop",3
-"1678","U Street Music Hall","synth-pop4]",2
-"1679","U Street Music Hall","synthpop",12
-"1680","U Street Music Hall","tech",1
-"1681","U Street Music Hall","tech house",2
-"1682","U Street Music Hall","techno",9
-"1683","U Street Music Hall","technotech houseminimal",3
-"1684","U Street Music Hall","teen pop",1
-"1685","U Street Music Hall","trance",1
-"1686","U Street Music Hall","trip hop",2
-"1687","U Street Music Hall","tropical house",2
-"1688","U Street Music Hall","uk garage",1
-"1689","U Street Music Hall","world",5
-"1690","Warner Theatre","acoustic",1
-"1691","Warner Theatre","afro-cuban jazz",1
-"1692","Warner Theatre","alternative metal",1
-"1693","Warner Theatre","alternative rock",3
-"1694","Warner Theatre","alternative/indie",8
-"1695","Warner Theatre","blue-eyed soul",1
-"1696","Warner Theatre","blues rock",7
-"1697","Warner Theatre","celtic",1
-"1698","Warner Theatre","celtic rock",1
-"1699","Warner Theatre","children's",4
-"1700","Warner Theatre","choral",1
-"1701","Warner Theatre","christian hip hop",2
-"1702","Warner Theatre","christian/gospel",7
-"1703","Warner Theatre","classical",4
-"1704","Warner Theatre","classical crossover",1
-"1705","Warner Theatre","classical/opera",5
-"1706","Warner Theatre","comedy/spoken word",48
-"1707","Warner Theatre","contemporary instrumental",3
-"1708","Warner Theatre","country",6
-"1709","Warner Theatre","electronic",1
-"1710","Warner Theatre","electronica/dance",2
-"1711","Warner Theatre","filin",1
-"1712","Warner Theatre","folk",1
-"1713","Warner Theatre","folk rock",1
-"1714","Warner Theatre","gospel",4
-"1715","Warner Theatre","hard rock",5
-"1716","Warner Theatre","hip hop",2
-"1717","Warner Theatre","improvisational multi-genre",1
-"1718","Warner Theatre","indian pop",1
-"1719","Warner Theatre","indie pop",1
-"1720","Warner Theatre","indie rock",3
-"1721","Warner Theatre","instrumental rock",3
-"1722","Warner Theatre","jazz",16
-"1723","Warner Theatre","k-pop",1
-"1724","Warner Theatre","latin",4
-"1725","Warner Theatre","latin pop",2
-"1726","Warner Theatre","latin rocklatinrock",1
-"1727","Warner Theatre","mbaqanga",1
-"1728","Warner Theatre","minimalist music",2
-"1729","Warner Theatre","new wave",3
-"1730","Warner Theatre","parody",5
-"1731","Warner Theatre","persian pop music",1
-"1732","Warner Theatre","philadelphia soul",1
-"1733","Warner Theatre","pop",27
-"1734","Warner Theatre","pop rock",3
-"1735","Warner Theatre","progressive metal",2
-"1736","Warner Theatre","progressive rock",1
-"1737","Warner Theatre","psychedelic rock",1
-"1738","Warner Theatre","qawwali",2
-"1739","Warner Theatre","r&b",7
-"1740","Warner Theatre","rap/hip hop",5
-"1741","Warner Theatre","reggae/ska",1
-"1742","Warner Theatre","rock",38
-"1743","Warner Theatre","rock and roll",3
-"1744","Warner Theatre","rock and rollbeatles tribute",1
-"1745","Warner Theatre","seasonal",2
-"1746","Warner Theatre","soul",2
-"1747","Warner Theatre","soul/r&b",13
-"1748","Warner Theatre","soundtracks",1
-"1749","Warner Theatre","southern rock",15
-"1750","Warner Theatre","swing revival",2
-"1751","Warner Theatre","synthpop",1
-"1752","Warner Theatre","texas country",1
-"1753","Warner Theatre","traditional irish",2
-"1754","Warner Theatre","trance fusion",1
-"1755","Warner Theatre","vocal jazz",1
-"1756","Warner Theatre","world",5
-"1757","Warner Theatre","world hindi",1
-"1758","Wolf Trap","a cappella",3
-"1759","Wolf Trap","acoustic",3
-"1760","Wolf Trap","adult contemporary",2
-"1761","Wolf Trap","alt-country",1
-"1762","Wolf Trap","alternative folk",1
-"1763","Wolf Trap","alternative hip hop",2
-"1764","Wolf Trap","alternative rock",28
-"1765","Wolf Trap","alternative/indie",5
-"1766","Wolf Trap","americana",18
-"1767","Wolf Trap","americanafolkpopcountry",1
-"1768","Wolf Trap","americanaroots rockswamp rocksouthern rockcajun/zydeconew orleans r&bcountry soul",3
-"1769","Wolf Trap","ameripolitan",1
-"1770","Wolf Trap","blue-eyed soul",2
-"1771","Wolf Trap","bluegrass",9
-"1772","Wolf Trap","bluegrassjam band",4
-"1773","Wolf Trap","blues",20
-"1774","Wolf Trap","blues rock",19
-"1775","Wolf Trap","bossa nova",1
-"1776","Wolf Trap","broadway",2
-"1777","Wolf Trap","cajun",5
-"1778","Wolf Trap","cast recordings/cabaret",7
-"1779","Wolf Trap","celtic",4
-"1780","Wolf Trap","celtic rock",3
-"1781","Wolf Trap","celtic rockfolk rockindie rockroots rock",4
-"1782","Wolf Trap","chicago blues",2
-"1783","Wolf Trap","chicano rock",2
-"1784","Wolf Trap","children's",10
-"1785","Wolf Trap","christian rock",1
-"1786","Wolf Trap","classical",5
-"1787","Wolf Trap","classical crossover",2
-"1788","Wolf Trap","classical/opera",24
-"1789","Wolf Trap","classicalbaroqueheavy metal",1
-"1790","Wolf Trap","comedy/spoken word",3
-"1791","Wolf Trap","contemporary",2
-"1792","Wolf Trap","contemporary folk",1
-"1793","Wolf Trap","contemporary instrumental",2
-"1794","Wolf Trap","country",53
-"1795","Wolf Trap","country rock",1
-"1796","Wolf Trap","disco",2
-"1797","Wolf Trap","easy listening",5
-"1798","Wolf Trap","electric blues",3
-"1799","Wolf Trap","electronica/dance",8
-"1800","Wolf Trap","emo",1
-"1801","Wolf Trap","film scores",1
-"1802","Wolf Trap","flamenco",1
-"1803","Wolf Trap","folk",137
-"1804","Wolf Trap","folk music",4
-"1805","Wolf Trap","folk rock",35
-"1806","Wolf Trap","folk-pop",1
-"1807","Wolf Trap","folk-rock",1
-"1808","Wolf Trap","folkpop",1
-"1809","Wolf Trap","folksinger-songwriter",3
-"1810","Wolf Trap","funk",6
-"1811","Wolf Trap","go-go",1
-"1812","Wolf Trap","gospel",3
-"1813","Wolf Trap","hard rock",2
-"1814","Wolf Trap","heartland rock",1
-"1815","Wolf Trap","hip hop",1
-"1816","Wolf Trap","improvisational multi-genre",3
-"1817","Wolf Trap","indian classical music",1
-"1818","Wolf Trap","indie folk",3
-"1819","Wolf Trap","indie pop",3
-"1820","Wolf Trap","instrumental rock",4
-"1821","Wolf Trap","irish",1
-"1822","Wolf Trap","irish folk music",9
-"1823","Wolf Trap","irish traditional",1
-"1824","Wolf Trap","isicathamiya",3
-"1825","Wolf Trap","jazz",80
-"1826","Wolf Trap","jazz fusion",1
-"1827","Wolf Trap","latin",5
-"1828","Wolf Trap","latin pop",2
-"1829","Wolf Trap","latin rocklatinrock",1
-"1830","Wolf Trap","light classical music",1
-"1831","Wolf Trap","musical theatre · film music · pops",2
-"1832","Wolf Trap","neoclassical dark wave",1
-"1833","Wolf Trap","neotraditional country",1
-"1834","Wolf Trap","neotraditionalist country",1
-"1835","Wolf Trap","new age",11
-"1836","Wolf Trap","new orleans blues",3
-"1837","Wolf Trap","new wave",15
-"1838","Wolf Trap","old-time",3
-"1839","Wolf Trap","operatic pop",2
-"1840","Wolf Trap","parody",2
-"1841","Wolf Trap","pop",105
-"1842","Wolf Trap","pop jazz",4
-"1843","Wolf Trap","pop rock",12
-"1844","Wolf Trap","progressive bluegrass",4
-"1845","Wolf Trap","progressive rock",4
-"1846","Wolf Trap","psychedelic rock",2
-"1847","Wolf Trap","pub rock",1
-"1848","Wolf Trap","punk rock",1
-"1849","Wolf Trap","r&b",21
-"1850","Wolf Trap","rap/hip hop",5
-"1851","Wolf Trap","reggae",4
-"1852","Wolf Trap","reggae/ska",5
-"1853","Wolf Trap","rhythm & blues",1
-"1854","Wolf Trap","rock",166
-"1855","Wolf Trap","rock and roll",5
-"1856","Wolf Trap","rockabilly",1
-"1857","Wolf Trap","rockalternative rock",2
-"1858","Wolf Trap","roots rock",3
-"1859","Wolf Trap","scottish traditional music",7
-"1860","Wolf Trap","seasonal",12
-"1861","Wolf Trap","ska",1
-"1862","Wolf Trap","smooth jazz",1
-"1863","Wolf Trap","social change music",1
-"1864","Wolf Trap","soul",3
-"1865","Wolf Trap","soul/r&b",27
-"1866","Wolf Trap","southern rock",9
-"1867","Wolf Trap","southern soul",1
-"1868","Wolf Trap","sunshine pop",1
-"1869","Wolf Trap","synth-pop",1
-"1870","Wolf Trap","texas country",9
-"1871","Wolf Trap","tishoumaren",1
-"1872","Wolf Trap","vallenato",1
-"1873","Wolf Trap","vaudevillian",1
-"1874","Wolf Trap","vocal group",1
-"1875","Wolf Trap","vocal jazz",2
-"1876","Wolf Trap","vocals",6
-"1877","Wolf Trap","world",99
-"1878","Wolf Trap","zydeco",5
-"1879","Wolf Trap","zydeco music",1
+"1","9:30 Club","alternative/indie",337
+"2","9:30 Club","blues",7
+"3","9:30 Club","classical/opera",2
+"4","9:30 Club","comedy/spoken word",4
+"5","9:30 Club","country",103
+"6","9:30 Club","electronic",369
+"7","9:30 Club","folk",217
+"8","9:30 Club","hip hop",159
+"9","9:30 Club","jazz",61
+"10","9:30 Club","pop",265
+"11","9:30 Club","reggae",47
+"12","9:30 Club","rock",1560
+"13","9:30 Club","soul/r&b",89
+"14","9:30 Club","world",46
+"15","Birchmere","alternative/indie",33
+"16","Birchmere","blues",154
+"17","Birchmere","classical/opera",12
+"18","Birchmere","comedy/spoken word",9
+"19","Birchmere","country",453
+"20","Birchmere","electronic",30
+"21","Birchmere","folk",503
+"22","Birchmere","hip hop",7
+"23","Birchmere","jazz",318
+"24","Birchmere","pop",123
+"25","Birchmere","reggae",7
+"26","Birchmere","rock",530
+"27","Birchmere","soul/r&b",330
+"28","Birchmere","world",63
+"29","Black Cat","alternative/indie",482
+"30","Black Cat","blues",7
+"31","Black Cat","classical/opera",4
+"32","Black Cat","comedy/spoken word",13
+"33","Black Cat","country",18
+"34","Black Cat","electronic",148
+"35","Black Cat","folk",100
+"36","Black Cat","hip hop",37
+"37","Black Cat","jazz",16
+"38","Black Cat","pop",135
+"39","Black Cat","reggae",9
+"40","Black Cat","rock",1078
+"41","Black Cat","soul/r&b",31
+"42","Black Cat","world",32
+"43","DAR Constitution Hall","alternative/indie",15
+"44","DAR Constitution Hall","blues",8
+"45","DAR Constitution Hall","classical/opera",2
+"46","DAR Constitution Hall","comedy/spoken word",25
+"47","DAR Constitution Hall","country",24
+"48","DAR Constitution Hall","electronic",4
+"49","DAR Constitution Hall","folk",13
+"50","DAR Constitution Hall","hip hop",27
+"51","DAR Constitution Hall","jazz",2
+"52","DAR Constitution Hall","pop",40
+"53","DAR Constitution Hall","reggae",3
+"54","DAR Constitution Hall","rock",63
+"55","DAR Constitution Hall","soul/r&b",86
+"56","DAR Constitution Hall","world",24
+"57","DC9 Nightclub","alternative/indie",358
+"58","DC9 Nightclub","blues",6
+"59","DC9 Nightclub","country",21
+"60","DC9 Nightclub","electronic",80
+"61","DC9 Nightclub","folk",60
+"62","DC9 Nightclub","hip hop",33
+"63","DC9 Nightclub","jazz",2
+"64","DC9 Nightclub","pop",95
+"65","DC9 Nightclub","reggae",7
+"66","DC9 Nightclub","rock",429
+"67","DC9 Nightclub","soul/r&b",12
+"68","DC9 Nightclub","world",5
+"69","Echostage","alternative/indie",11
+"70","Echostage","country",1
+"71","Echostage","electronic",169
+"72","Echostage","folk",3
+"73","Echostage","hip hop",56
+"74","Echostage","pop",13
+"75","Echostage","reggae",5
+"76","Echostage","rock",15
+"77","Echostage","soul/r&b",3
+"78","Echostage","world",15
+"79","Flash","alternative/indie",6
+"80","Flash","electronic",315
+"81","Flash","folk",1
+"82","Flash","hip hop",11
+"83","Flash","pop",7
+"84","Flash","reggae",1
+"85","Flash","rock",6
+"86","Flash","soul/r&b",4
+"87","Howard Theatre","alternative/indie",14
+"88","Howard Theatre","blues",27
+"89","Howard Theatre","comedy/spoken word",4
+"90","Howard Theatre","country",21
+"91","Howard Theatre","electronic",36
+"92","Howard Theatre","folk",10
+"93","Howard Theatre","hip hop",149
+"94","Howard Theatre","jazz",82
+"95","Howard Theatre","pop",47
+"96","Howard Theatre","reggae",70
+"97","Howard Theatre","rock",114
+"98","Howard Theatre","soul/r&b",270
+"99","Howard Theatre","world",63
+"100","Lincoln Theatre","alternative/indie",23
+"101","Lincoln Theatre","blues",3
+"102","Lincoln Theatre","classical/opera",1
+"103","Lincoln Theatre","comedy/spoken word",12
+"104","Lincoln Theatre","country",21
+"105","Lincoln Theatre","electronic",13
+"106","Lincoln Theatre","folk",34
+"107","Lincoln Theatre","hip hop",7
+"108","Lincoln Theatre","jazz",7
+"109","Lincoln Theatre","pop",31
+"110","Lincoln Theatre","reggae",3
+"111","Lincoln Theatre","rock",69
+"112","Lincoln Theatre","soul/r&b",10
+"113","Lincoln Theatre","world",3
+"114","Merriweather Post Pavilion","alternative/indie",27
+"115","Merriweather Post Pavilion","country",90
+"116","Merriweather Post Pavilion","electronic",22
+"117","Merriweather Post Pavilion","folk",24
+"118","Merriweather Post Pavilion","hip hop",17
+"119","Merriweather Post Pavilion","jazz",11
+"120","Merriweather Post Pavilion","pop",100
+"121","Merriweather Post Pavilion","rock",305
+"122","Merriweather Post Pavilion","soul/r&b",17
+"123","Merriweather Post Pavilion","world",7
+"124","Rock & Roll Hotel","alternative/indie",257
+"125","Rock & Roll Hotel","blues",5
+"126","Rock & Roll Hotel","classical/opera",2
+"127","Rock & Roll Hotel","comedy/spoken word",2
+"128","Rock & Roll Hotel","country",22
+"129","Rock & Roll Hotel","electronic",102
+"130","Rock & Roll Hotel","folk",60
+"131","Rock & Roll Hotel","hip hop",65
+"132","Rock & Roll Hotel","jazz",3
+"133","Rock & Roll Hotel","pop",80
+"134","Rock & Roll Hotel","reggae",15
+"135","Rock & Roll Hotel","rock",636
+"136","Rock & Roll Hotel","soul/r&b",21
+"137","Rock & Roll Hotel","world",2
+"138","Songbyrd","alternative/indie",30
+"139","Songbyrd","blues",3
+"140","Songbyrd","country",4
+"141","Songbyrd","electronic",16
+"142","Songbyrd","folk",8
+"143","Songbyrd","hip hop",14
+"144","Songbyrd","jazz",1
+"145","Songbyrd","pop",15
+"146","Songbyrd","reggae",3
+"147","Songbyrd","rock",53
+"148","Songbyrd","soul/r&b",5
+"149","Songbyrd","world",1
+"150","Soundcheck","electronic",186
+"151","Soundcheck","hip hop",1
+"152","Soundcheck","pop",4
+"153","Soundcheck","rock",6
+"154","Soundcheck","soul/r&b",1
+"155","Soundcheck","world",1
+"156","Strathmore","alternative/indie",6
+"157","Strathmore","blues",6
+"158","Strathmore","classical/opera",41
+"159","Strathmore","comedy/spoken word",4
+"160","Strathmore","country",27
+"161","Strathmore","electronic",5
+"162","Strathmore","folk",18
+"163","Strathmore","hip hop",1
+"164","Strathmore","jazz",53
+"165","Strathmore","pop",52
+"166","Strathmore","reggae",1
+"167","Strathmore","rock",40
+"168","Strathmore","soul/r&b",26
+"169","Strathmore","world",19
+"170","The Anthem","alternative/indie",4
+"171","The Anthem","blues",1
+"172","The Anthem","country",1
+"173","The Anthem","electronic",4
+"174","The Anthem","folk",1
+"175","The Anthem","pop",3
+"176","The Anthem","reggae",1
+"177","The Anthem","rock",7
+"178","The Anthem","soul/r&b",1
+"179","The Fillmore","alternative/indie",33
+"180","The Fillmore","blues",4
+"181","The Fillmore","classical/opera",2
+"182","The Fillmore","comedy/spoken word",1
+"183","The Fillmore","country",47
+"184","The Fillmore","electronic",38
+"185","The Fillmore","folk",4
+"186","The Fillmore","hip hop",149
+"187","The Fillmore","jazz",1
+"188","The Fillmore","pop",51
+"189","The Fillmore","reggae",17
+"190","The Fillmore","rock",242
+"191","The Fillmore","soul/r&b",46
+"192","The Fillmore","world",21
+"193","The Kennedy Center","alternative/indie",21
+"194","The Kennedy Center","blues",8
+"195","The Kennedy Center","classical/opera",114
+"196","The Kennedy Center","comedy/spoken word",13
+"197","The Kennedy Center","country",22
+"198","The Kennedy Center","electronic",10
+"199","The Kennedy Center","folk",26
+"200","The Kennedy Center","hip hop",6
+"201","The Kennedy Center","jazz",145
+"202","The Kennedy Center","pop",42
+"203","The Kennedy Center","reggae",1
+"204","The Kennedy Center","rock",37
+"205","The Kennedy Center","soul/r&b",28
+"206","The Kennedy Center","world",414
+"207","U Street Music Hall","alternative/indie",114
+"208","U Street Music Hall","comedy/spoken word",5
+"209","U Street Music Hall","country",8
+"210","U Street Music Hall","electronic",737
+"211","U Street Music Hall","folk",19
+"212","U Street Music Hall","hip hop",110
+"213","U Street Music Hall","jazz",18
+"214","U Street Music Hall","pop",90
+"215","U Street Music Hall","reggae",8
+"216","U Street Music Hall","rock",124
+"217","U Street Music Hall","soul/r&b",43
+"218","U Street Music Hall","world",9
+"219","Warner Theatre","alternative/indie",8
+"220","Warner Theatre","blues",2
+"221","Warner Theatre","classical/opera",10
+"222","Warner Theatre","comedy/spoken word",53
+"223","Warner Theatre","country",18
+"224","Warner Theatre","electronic",10
+"225","Warner Theatre","folk",6
+"226","Warner Theatre","hip hop",9
+"227","Warner Theatre","jazz",23
+"228","Warner Theatre","pop",35
+"229","Warner Theatre","reggae",1
+"230","Warner Theatre","rock",87
+"231","Warner Theatre","soul/r&b",25
+"232","Warner Theatre","world",19
+"233","Wolf Trap","alternative/indie",5
+"234","Wolf Trap","blues",40
+"235","Wolf Trap","classical/opera",35
+"236","Wolf Trap","comedy/spoken word",5
+"237","Wolf Trap","country",85
+"238","Wolf Trap","electronic",37
+"239","Wolf Trap","folk",226
+"240","Wolf Trap","hip hop",8
+"241","Wolf Trap","jazz",103
+"242","Wolf Trap","pop",150
+"243","Wolf Trap","reggae",10
+"244","Wolf Trap","rock",270
+"245","Wolf Trap","soul/r&b",61
+"246","Wolf Trap","world",134
