@@ -1,6 +1,6 @@
 # Washington D.C. Historical Analysis
 
-This is a repo for an analysis I am conducting on historical concert data for all major music venues in Washington D.C.
+This is a repo for an analysis I conducted on historical concert data for all major music venues in Washington D.C.
 
 ### Getting Started
 
